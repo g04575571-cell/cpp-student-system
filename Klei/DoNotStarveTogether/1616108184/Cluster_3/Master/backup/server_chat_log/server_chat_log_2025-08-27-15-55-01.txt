@@ -1,0 +1,7 @@
+[00:01:42]: [Join Announcement] g04575571
+[00:18:33]: [Announcement] g04575571生成了一项记录！
+[00:20:20]: [Announcement] g04575571生成了一项记录！
+[00:26:35]: [Announcement] g04575571生成了一项记录！
+[01:39:29]: [Announcement] g04575571生成了一项记录！
+[01:57:39]: [Announcement] g04575571生成了一项记录！
+[01:59:45]: [Leave Announcement] g04575571

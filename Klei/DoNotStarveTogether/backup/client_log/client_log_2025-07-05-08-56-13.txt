@@ -1,0 +1,2635 @@
+[00:00:01]: 
+System Memory:
+	Memory Load: 32%
+	Available Physical Memory: 16136m/23803m
+	Available Page File: 19926m/30203m
+	Available Virtual Memory: 134213452m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:01]: 
+Process Memory:
+	Peak Working Set Size: 37m
+	Working Set Size: 37m
+	Quota Peak Page Pool Usage: 262k
+	Quota Page Pool Usage: 259k
+	Quota Peak Non Paged Pool Usage:19k
+	Quota Non Paged Pool Usage: 18k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:01]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:01]: Starting Up
+[00:00:01]: Version: 677072
+[00:00:01]: Current time: Thu Jul 03 08:52:45 2025
+
+[00:00:01]: Don't Starve Together: 677072 WIN32_STEAM
+[00:00:01]: Build Date: 3390
+[00:00:01]: Mode: 64-bit
+[00:00:01]: Parsing command line
+[00:00:01]: Command Line Arguments: 
+[00:00:01]: Initializing distribution platform
+[00:00:01]: Initializing Minidump handler
+[00:00:01]: ....Done
+[00:00:01]: Steam AppBuildID: 19034835
+[00:00:01]: ....Done
+[00:00:01]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/1616108184/ 
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (8200)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: ProfileIndex:1.89
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: THREAD - started 'IC' (17368)
+[00:00:01]: Texture Streaming: ENABLED
+[00:00:01]: Texture Streaming: DISABLED
+[00:00:01]: Threaded Renderer: ENABLED
+[00:00:01]: THREAD - started 'SimUpdateThread' (5240)
+[00:00:01]: THREAD - started 'RenderThread' (18892)
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_steam_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: THREAD - started 'StreamInput' (5672)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561199576373912
+[00:00:01]: Cached userid loaded:
+[00:00:01]: SteamID: 76561199576373912
+[00:00:02]: THREAD - started 'AsynTextureLoadthread' (6228)
+[00:00:02]: THREAD - started 'AsynTextureLoadthread' (2436)
+[00:00:02]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 11 家用版
+    version                   10.0.26100
+    platformSpecific          SP 0.0
+    architecture              64 位元
+  CPU                       
+    clockSpeed                3301
+    name                      AMD Ryzen 5 7535HS with Radeon Graphics        
+    manufacturer              AuthenticAMD
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 24576
+  GPU                       
+    megsOfRam                 512
+    videoModeDescription      1920 x 1080 x 4294967296 色彩
+    name                      AMD Radeon(TM) Graphics
+    driverVersion             32.0.11038.3
+    driverDate                20240813000000.000000-000
+    refreshRate               144
+
+[00:00:02]: cGame::InitializeOnMainThread
+[00:00:02]: WindowManager::Initialize
+[00:00:02]: CreateWindow: Requesting 1920,1080 - 5/6/5 - -1/-1/-1 - 0
+[00:00:02]: CreateEGLContext: 16 configs found
+[00:00:02]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:02]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:02]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:02]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:02]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:02]:      5: 5/5/5 -  1/ 0/ 0 - 0
+[00:00:02]:      6: 5/5/5 -  0/16/ 0 - 0
+[00:00:02]:      7: 5/5/5 -  1/16/ 0 - 0
+[00:00:02]:      8: 5/5/5 -  0/24/ 0 - 0
+[00:00:02]:      9: 5/5/5 -  1/24/ 0 - 0
+[00:00:02]:     10: 5/5/5 -  0/24/ 8 - 0
+[00:00:02]:     11: 5/5/5 -  1/24/ 8 - 0
+[00:00:02]:     12: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:02]:     13: 8/8/8 -  8/16/ 0 - 0
+[00:00:02]:     14: 8/8/8 -  8/24/ 0 - 0
+[00:00:02]:     15: 8/8/8 -  8/24/ 8 - 0
+[00:00:02]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:00:03]: THREAD - started 'WindowsInputManager' (12860)
+[00:00:03]: GLInfo
+[00:00:03]: ~~~~~~
+[00:00:03]: GL_VENDOR: Google Inc.
+[00:00:03]: GL_RENDERER: ANGLE (AMD Radeon(TM) Graphics)
+[00:00:03]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:03]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:03]: OpenGL extensions (19, 19):
+[00:00:03]: GL_ANGLE_depth_texture
+[00:00:03]: GL_ANGLE_framebuffer_blit
+[00:00:03]: GL_ANGLE_framebuffer_multisample
+[00:00:03]: GL_ANGLE_instanced_arrays
+[00:00:03]: GL_ANGLE_pack_reverse_row_order
+[00:00:03]: GL_ANGLE_texture_compression_dxt3
+[00:00:03]: GL_ANGLE_texture_compression_dxt5
+[00:00:03]: GL_ANGLE_texture_usage
+[00:00:03]: GL_ANGLE_translated_shader_source
+[00:00:03]: GL_EXT_read_format_bgra
+[00:00:03]: GL_EXT_robustness
+[00:00:03]: GL_EXT_texture_compression_dxt1
+[00:00:03]: GL_EXT_texture_format_BGRA8888
+[00:00:03]: GL_EXT_texture_storage
+[00:00:03]: GL_OES_get_program_binary
+[00:00:03]: GL_OES_packed_depth_stencil
+[00:00:03]: GL_OES_rgb8_rgba8
+[00:00:03]: GL_OES_standard_derivatives
+[00:00:03]: GL_OES_texture_npot
+[00:00:03]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:03]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:03]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:03]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:03]: GL_MAX_VARYING_VECTORS = 10
+[00:00:03]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:03]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:03]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:03]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:03]: 4 compressed texture formats
+[00:00:03]: texture format 0x83f0
+[00:00:03]: texture format 0x83f1
+[00:00:03]: texture format 0x83f2
+[00:00:03]: texture format 0x83f3
+[00:00:04]: Renderer initialize: Okay
+[00:00:04]: AnimManager initialize: Okay
+[00:00:05]: Buffers initialize: Okay
+[00:00:05]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:05]: GameSpecific initialize: Okay
+[00:00:05]: cGame::StartPlaying
+[00:00:05]: AppVersion::GetArchitecture() x64
+[00:00:05]: LOADING LUA
+[00:00:05]: DoLuaFile scripts/main.lua
+[00:00:05]: DoLuaFile loading buffer scripts/main.lua
+[00:00:05]: Translator:LoadPOFile - loading file: scripts/languages/chinese_t.po	
+[00:00:08]:   taskgrouplist:	default	連線版	
+[00:00:08]:   taskgrouplist:	classic	經典	
+[00:00:08]:   taskgrouplist:	cave_default	地下	
+[00:00:08]:   taskgrouplist:	lavaarena_taskset	熔爐	
+[00:00:08]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:00:08]: Running main.lua
+	
+[00:00:08]: loaded modindex	
+[00:00:09]: ModIndex: Beginning normal load sequence.
+	
+[00:00:09]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:17]: LOADING LUA SUCCESS
+[00:00:17]: PlayerDeaths loaded morgue	6219	
+[00:00:17]: PlayerHistory loaded player_history (v2) len:402	
+[00:00:17]: ServerPreferences loaded server_preferences	2	
+[00:00:17]: ConsoleScreenSettings loaded consolescreen	1008	
+[00:00:17]: bloom_enabled	false	
+[00:00:17]: EnableShadeRenderer: 	true	
+[00:00:17]: loaded shardsaveindex	
+[00:00:17]: OnFilesLoaded()	
+[00:00:17]: OnUpdatePurchaseStateComplete	
+[00:00:17]: Klump load on boot started.	
+[00:00:17]: Klump files loaded: 	0	
+[00:00:19]: 	Load FE	
+[00:00:22]: 	Load FE: done	
+[00:00:22]: THREAD - started 'FilesExistAsyncThread' (19688)
+[00:00:22]: FilesExistAsyncThread started (27076 files)...
+[00:00:22]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1616108184/client_save/blocklist.txt (Failure)
+[00:00:22]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1616108184/client_save/adminlist.txt (Failure)
+[00:00:22]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1616108184/client_save/whitelist.txt (Failure)
+[00:00:22]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=TW&lang=tchinese&version=677072	
+[00:00:22]: Check for write access: TRUE
+[00:00:22]: Check for read access: TRUE
+[00:00:22]: Available disk space for save files: 172003 MB
+[00:00:22]: ModIndex: Load sequence finished successfully.	
+[00:00:22]: Reset() returning
+[00:00:22]: FMOD detected a new audio device and set audio to the current default device.
+[00:00:25]: [MOTD] Done Loading.	
+[00:00:25]: Do AutoLogin	
+[00:00:25]: [Steam] Auth Session Ticket requested...
+[00:00:26]: [Steam] Got Auth Session Ticket
+[00:00:28]: [200] Account Communication Success (3)
+[00:00:28]: Logging in as KU_vLUNqxeJ
+[00:00:29]: There is no active event to get the status of.
+[00:00:29]: [DLCS] 0, 2132800:0, 1338540:0, 1485060:0, 2236180:0, 282470:0, 840750:0, 1558300:0, 1205500:0, 1084430:0, 1289760:0, 1899050:0, 1051700:0, 3155070:0, 1205501:0, 981701:0, 840770:0, 1167510:0, 1447360:0, 981700:0, 840760:0, 382560:0, 1694780:0, 1874370:0, 798750:0, 1522880:0, 1230830:0, 1710241:0, 457140:0, 1172860:0, 1272440:0, 1710240:0, 2241030:0, 2711510:0, 3373370:0, 393010:0, 987340:0, 2058281:0, 962960:0, 1167330:0, 2170670:0, 2058280:0, 798740:0, 2170671:0, 1612410:0, 1836630:0, 2769680:0, 3373360:0, 974740:0, 1698560:0, 2377640:0, 2007370:0, 712640:0, 981702:0
+[00:00:30]: could not load pending_keyvalues_prod
+[00:00:32]: loaded inventory_cache_prod
+[00:00:32]: using inventory state token from cached file
+[00:00:35]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/inventory_cache_prod
+[00:00:35]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/inventory_cache_prod_sig
+[00:00:36]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:00:36]: [Workshop] ModQuery got 23 results
+[00:00:36]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:00:36]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:36]: [Workshop] ItemQuery finished downloading everything
+[00:00:45]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:00:45]: [Workshop] ModQuery got 23 results
+[00:00:45]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:00:45]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:45]: [Workshop] ItemQuery finished downloading everything
+[00:00:49]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:00:49]: [Workshop] ModQuery got 23 results
+[00:00:49]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:00:49]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:49]: [Workshop] ItemQuery finished downloading everything
+[00:01:06]: Getting top mod details...
+[00:01:06]: Frontend-Unloading mod 'all'.	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-2373375099	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-2986805687	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-3473318774	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-2964299587	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-661253977	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-2795130977	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-1185229307	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-666155465	
+[00:01:06]: loaded mod_config_data/modconfiguration_workshop-3092317730	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-3044756151	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-2951068194	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-1595631294	
+[00:01:07]: FrontendLoadMod	workshop-2964299587	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-2964299587	
+[00:01:07]: Fontend-Loading mod: workshop-2964299587 (伤害显示) Version:1.03	
+[00:01:07]: Mod: workshop-2964299587 (伤害显示)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-2964299587 (伤害显示)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-2964299587 (伤害显示)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-2964299587 (伤害显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-1207269058	
+[00:01:07]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:01:07]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:01:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-3448135812	
+[00:01:07]: Could not load mod_config_data/modconfiguration_workshop-3448135812	
+[00:01:07]: Fontend-Loading mod: workshop-3448135812 (不文明的猪人台词) Version:1.2	
+[00:01:07]: Mod: workshop-3448135812 (不文明的猪人台词)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-3448135812 (不文明的猪人台词)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-3448135812 (不文明的猪人台词)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-3448135812 (不文明的猪人台词)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-666155465	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-666155465	
+[00:01:07]: Fontend-Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:01:07]: Mod: workshop-666155465 (Show Me (Origin))	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-2373375099	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-2373375099	
+[00:01:07]: Fontend-Loading mod: workshop-2373375099 (B-01 小地图) Version:1.7.3	
+[00:01:07]: Mod: workshop-2373375099 (B-01 小地图)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-2373375099 (B-01 小地图)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-2373375099 (B-01 小地图)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-2373375099 (B-01 小地图)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-2986805687	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-2986805687	
+[00:01:07]: Fontend-Loading mod: workshop-2986805687 (黑化队列行为学（服务器版本）) Version:1.134	
+[00:01:07]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-3473318774	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-3473318774	
+[00:01:07]: Fontend-Loading mod: workshop-3473318774 (Sparkle) Version:1.0.0.4	
+[00:01:07]: Mod: workshop-3473318774 (Sparkle)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-3473318774 (Sparkle)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-3473318774 (Sparkle)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-3473318774 (Sparkle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-3044756151	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-3044756151	
+[00:01:07]: Fontend-Loading mod: workshop-3044756151 (防卡两招_新) Version:1.17	
+[00:01:07]: Mod: workshop-3044756151 (防卡两招_新)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-3044756151 (防卡两招_新)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-3044756151 (防卡两招_新)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-3044756151 (防卡两招_新)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-661253977	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-661253977	
+[00:01:07]: Fontend-Loading mod: workshop-661253977 ( Don't Drop Everything) Version:11:15 2020-08-10	
+[00:01:07]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-375850593	
+[00:01:07]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:01:07]: Fontend-Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:01:07]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-2795130977	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-2795130977	
+[00:01:07]: Fontend-Loading mod: workshop-2795130977 (Abigail Pro Max T PlusCup) Version:1.31	
+[00:01:07]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-1595631294	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-1595631294	
+[00:01:07]: Fontend-Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:01:07]: Mod: workshop-1595631294 (Smart Minisign)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-363112314	
+[00:01:07]: Could not load mod_config_data/modconfiguration_workshop-363112314	
+[00:01:07]: Fontend-Loading mod: workshop-363112314 (Map Revealer for DST) Version:1.1	
+[00:01:07]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-363112314 (Map Revealer for DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-363112314 (Map Revealer for DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-2951068194	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-2951068194	
+[00:01:07]: Fontend-Loading mod: workshop-2951068194 (复活按钮和传送按钮) Version:2.0.4	
+[00:01:07]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-2951068194 (复活按钮和传送按钮)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-2951068194 (复活按钮和传送按钮)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-1185229307	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-1185229307	
+[00:01:07]: Fontend-Loading mod: workshop-1185229307 (史诗血量条) Version:97	
+[00:01:07]: Mod: workshop-1185229307 (史诗血量条)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:07]: FrontendLoadMod	workshop-3092317730	
+[00:01:07]: loaded mod_config_data/modconfiguration_workshop-3092317730	
+[00:01:07]: Fontend-Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:01:07]: Mod: workshop-3092317730 (Combined Status)	Loading modservercreationmain.lua	
+[00:01:07]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:07]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:01:07]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:08]: GOT top mod details...50
+[00:01:08]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:01:08]: [Workshop] ModQuery got 23 results
+[00:01:08]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:01:08]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:01:08]: [Workshop] ItemQuery finished downloading everything
+[00:01:08]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:01:08]: [Workshop] ModQuery got 23 results
+[00:01:08]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:01:08]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:01:08]: [Workshop] ItemQuery finished downloading everything
+[00:01:18]: FrontendLoadMod	workshop-3320235585	
+[00:01:18]: loaded mod_config_data/modconfiguration_workshop-3320235585	
+[00:01:18]: Fontend-Loading mod: workshop-3320235585 ([星穹铁道] 流萤) Version:0.18.g	
+[00:01:18]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Loading modservercreationmain.lua	
+[00:01:18]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:18]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Loading modworldgenmain.lua	
+[00:01:18]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:21]: FrontendLoadMod	workshop-3491443180	
+[00:01:21]: loaded mod_config_data/modconfiguration_workshop-3491443180	
+[00:01:21]: Fontend-Loading mod: workshop-3491443180 (爱莉希雅) Version:0.8.6	
+[00:01:21]: Mod: workshop-3491443180 (爱莉希雅)	Loading modservercreationmain.lua	
+[00:01:21]: Mod: workshop-3491443180 (爱莉希雅)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:01:21]: Mod: workshop-3491443180 (爱莉希雅)	Loading modworldgenmain.lua	
+[00:01:21]: Mod: workshop-3491443180 (爱莉希雅)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:26]: [Workshop] DownloadPublishedFile [5] 3491443180
+[00:01:30]: [Workshop] OnDownloadPublishedUGCFile [1] 3491443180
+[00:02:05]: loaded mod_config_data/modconfiguration_workshop-3491443180	
+[00:02:13]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:02:13]: [Workshop] ModQuery got 23 results
+[00:02:13]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:02:13]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:13]: [Workshop] ItemQuery finished downloading everything
+[00:02:13]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:02:13]: [Workshop] ModQuery got 23 results
+[00:02:13]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:02:13]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:13]: [Workshop] ItemQuery finished downloading everything
+[00:02:19]: loaded mod_config_data/modconfiguration_workshop-3320235585	
+[00:02:47]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:02:47]: [Workshop] ModQuery got 23 results
+[00:02:47]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:02:47]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:47]: [Workshop] ItemQuery finished downloading everything
+[00:02:47]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:02:47]: [Workshop] ModQuery got 23 results
+[00:02:47]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:02:47]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:47]: [Workshop] ItemQuery finished downloading everything
+[00:02:48]: loaded mod_config_data/modconfiguration_workshop-3320235585	
+[00:02:53]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:02:53]: [Workshop] ModQuery got 23 results
+[00:02:53]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:02:53]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:53]: [Workshop] ItemQuery finished downloading everything
+[00:02:53]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:02:53]: [Workshop] ModQuery got 23 results
+[00:02:53]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:02:53]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:53]: [Workshop] ItemQuery finished downloading everything
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-3491443180	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-2964299587	
+[00:02:54]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:02:54]: Could not load mod_config_data/modconfiguration_workshop-3448135812	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-666155465	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-2373375099	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-2986805687	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-3473318774	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-3044756151	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-661253977	
+[00:02:54]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-2795130977	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-1595631294	
+[00:02:54]: Could not load mod_config_data/modconfiguration_workshop-363112314	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-2951068194	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-3320235585	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-1185229307	
+[00:02:54]: loaded mod_config_data/modconfiguration_workshop-3092317730	
+[00:02:54]: [IPC] Signal 'DST_Master_Starting' created  #00000000000013A4
+[00:02:54]: [IPC] Clearing pending signals #00000000000013A4...
+[00:02:54]: [IPC] Registering handler for signal #00000000000013A4
+[00:02:54]: [IPC] Handle #00000000000013A4 added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Master_WorldGen' created  #000000000000123C
+[00:02:55]: [IPC] Clearing pending signals #000000000000123C...
+[00:02:55]: [IPC] Registering handler for signal #000000000000123C
+[00:02:55]: [IPC] Handle #000000000000123C added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Master_Ready' created  #00000000000012F0
+[00:02:55]: [IPC] Clearing pending signals #00000000000012F0...
+[00:02:55]: [IPC] Registering handler for signal #00000000000012F0
+[00:02:55]: [IPC] Handle #00000000000012F0 added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Master_ErrPort' created  #0000000000000F7C
+[00:02:55]: [IPC] Clearing pending signals #0000000000000F7C...
+[00:02:55]: [IPC] Registering handler for signal #0000000000000F7C
+[00:02:55]: [IPC] Handle #0000000000000F7C added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Master_ErrStartup' created  #00000000000011E0
+[00:02:55]: [IPC] Clearing pending signals #00000000000011E0...
+[00:02:55]: [IPC] Registering handler for signal #00000000000011E0
+[00:02:55]: [IPC] Handle #00000000000011E0 added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Master_Kill' created  #000000000000131C
+[00:02:55]: [IPC] Clearing pending signals #000000000000131C...
+[00:02:55]: [IPC] Signal 'DST_Master_ShutdownNoSave' created  #000000000000133C
+[00:02:55]: [IPC] Clearing pending signals #000000000000133C...
+[00:02:55]: [IPC] Signal 'DST_Secondary_Starting' created  #000000000000137C
+[00:02:55]: [IPC] Clearing pending signals #000000000000137C...
+[00:02:55]: [IPC] Registering handler for signal #000000000000137C
+[00:02:55]: [IPC] Handle #000000000000137C added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Secondary_WorldGen' created  #0000000000000FD4
+[00:02:55]: [IPC] Clearing pending signals #0000000000000FD4...
+[00:02:55]: [IPC] Registering handler for signal #0000000000000FD4
+[00:02:55]: [IPC] Handle #0000000000000FD4 added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Secondary_Ready' created  #00000000000012C0
+[00:02:55]: [IPC] Clearing pending signals #00000000000012C0...
+[00:02:55]: [IPC] Registering handler for signal #00000000000012C0
+[00:02:55]: [IPC] Handle #00000000000012C0 added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Secondary_ErrPort' created  #00000000000011F8
+[00:02:55]: [IPC] Clearing pending signals #00000000000011F8...
+[00:02:55]: [IPC] Registering handler for signal #00000000000011F8
+[00:02:55]: [IPC] Handle #00000000000011F8 added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Secondary_ErrStartup' created  #000000000000138C
+[00:02:55]: [IPC] Clearing pending signals #000000000000138C...
+[00:02:55]: [IPC] Registering handler for signal #000000000000138C
+[00:02:55]: [IPC] Handle #000000000000138C added to the Eventhandles
+[00:02:55]: [IPC] Signal 'DST_Secondary_Kill' created  #0000000000001374
+[00:02:55]: [IPC] Clearing pending signals #0000000000001374...
+[00:02:55]: [IPC] Signal 'DST_Secondary_ShutdownNoSave' created  #0000000000001334
+[00:02:55]: [IPC] Clearing pending signals #0000000000001334...
+[00:03:15]: [IPC] Received DST_Master Starting signal !
+[00:03:15]: [IPC] Received DST_Secondary Starting signal !
+[00:04:02]: [IPC] Received DST_Master Ready signal !
+[00:04:05]: [IPC] Received DST_Secondary Ready signal !
+[00:04:05]: [Connect] Init client connection to 127.0.0.1|10999
+[00:04:05]: [Connect] PendingConnection::Reset(true)
+[00:04:05]: [Workshop] CancelDownloads for all pending downloads
+[00:04:05]: [Connect] InternalInitClient <866794743999982844>
+[00:04:05]: [Shard] Starting shard mode as player
+[00:04:05]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:04:05]: [Connect] Sending ping(s)...
+[00:04:05]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:04:05]: [Connect] Ping response from 127.0.0.1|10999
+[00:04:05]: [Connect] Joining server from ping response...
+[00:04:05]: Friends are currently playing in 0 games(s)!
+[00:04:05]: You belong to 0 clan(s)!
+[00:04:05]: [Connect] Got join server response from lua
+[00:04:05]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:04:05]: [Workshop] ModQuery got 23 results
+[00:04:05]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:04:05]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:04:05]: [Workshop] ItemQuery finished downloading everything
+[00:04:06]: [200] Account Communication Success (13)
+[00:04:06]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:04:06]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:04:06]: Connection accepted to 127.0.0.1|10999 <8635761720396454578>
+[00:04:06]: Network external address discovered: 127.0.0.1|52596
+[00:04:06]: SendClientHandShakePacket to <8635761720396454578>
+[00:04:06]: DeserializeHandShakeServerListing
+[00:04:06]: Network tick rate: U=10(3), D=15
+[00:04:06]: Platform: 1
+[00:04:06]: Version: 677072
+[00:04:06]: [Steam] Game Connection initiated
+[00:04:06]: SendClientInventoryHandShakePacket to <8635761720396454578>
+[00:04:07]: Begin Session: 004518B9C3B89113
+[00:04:07]: Done Downloading Client Object Data
+[00:04:07]: DownloadMods and temp disable	
+[00:04:07]: We now have the required mods, enable them for server	
+[00:04:07]: Temp Enabling workshop-3491443180	
+[00:04:07]: Temp Enabling workshop-2964299587	
+[00:04:07]: Temp Enabling workshop-1207269058	
+[00:04:07]: Temp Enabling workshop-3448135812	
+[00:04:07]: Temp Enabling workshop-666155465	
+[00:04:07]: Temp Enabling workshop-3092317730	
+[00:04:07]: Temp Enabling workshop-2986805687	
+[00:04:07]: Temp Enabling workshop-3473318774	
+[00:04:07]: Temp Enabling workshop-2795130977	
+[00:04:07]: Temp Enabling workshop-2951068194	
+[00:04:07]: Temp Enabling workshop-1595631294	
+[00:04:07]: Temp Enabling workshop-3044756151	
+[00:04:07]: Temp Enabling workshop-2373375099	
+[00:04:07]: Temp Enabling workshop-3320235585	
+[00:04:07]: Temp Enabling workshop-375850593	
+[00:04:07]: Temp Enabling workshop-1185229307	
+[00:04:07]: ModIndex:SetTempModConfigData	
+[00:04:07]: Setting temp mod config for mod 	workshop-2373375099	
+[00:04:07]: Setting temp mod config for mod 	workshop-2986805687	
+[00:04:07]: Setting temp mod config for mod 	workshop-3473318774	
+[00:04:07]: Setting temp mod config for mod 	workshop-3044756151	
+[00:04:07]: Setting temp mod config for mod 	workshop-2964299587	
+[00:04:07]: Setting temp mod config for mod 	workshop-375850593	
+[00:04:07]: Setting temp mod config for mod 	workshop-3491443180	
+[00:04:07]: Setting temp mod config for mod 	workshop-2795130977	
+[00:04:07]: Setting temp mod config for mod 	workshop-1207269058	
+[00:04:07]: Setting temp mod config for mod 	workshop-1185229307	
+[00:04:07]: Setting temp mod config for mod 	workshop-3448135812	
+[00:04:07]: Setting temp mod config for mod 	workshop-666155465	
+[00:04:07]: Setting temp mod config for mod 	workshop-3092317730	
+[00:04:07]: Setting temp mod config for mod 	workshop-3320235585	
+[00:04:07]: Setting temp mod config for mod 	workshop-2951068194	
+[00:04:07]: Setting temp mod config for mod 	workshop-1595631294	
+[00:04:07]: Mods are setup for server, save the mod index and proceed.	
+[00:04:07]: Downloading [0] From: server_temp
+[00:04:07]: 0 (40%) 1/1 server_temp/server_save 114000b / 283035b
+[00:04:07]: 0 (80%) 1/1 server_temp/server_save 228000b / 283035b
+[00:04:07]: 0 (100%) 1/1 server_temp/server_save 283035b / 283035b
+[00:04:07]: Download complete[0] Files: 1 Size: 283035
+[00:04:07]: Collecting garbage...
+[00:04:07]: lua_gc took 0.13 seconds
+[00:04:08]: ~ShardLuaProxy()
+[00:04:08]: ~cEventLeaderboardProxy()
+[00:04:08]: ~ItemServerLuaProxy()
+[00:04:08]: ~InventoryLuaProxy()
+[00:04:08]: ~NetworkLuaProxy()
+[00:04:08]: ~SimLuaProxy()
+[00:04:08]: Cancelling LuaQueryCallback handle [5]
+[00:04:08]: [Workshop] CancelDownloads for all pending downloads
+[00:04:08]: FilesExistAsyncThread aborted.
+[00:04:08]: ... FilesExistAsyncThread complete
+[00:04:08]: lua_close took 0.23 seconds
+[00:04:08]: ReleaseAll
+[00:04:08]: ReleaseAll Finished
+[00:04:08]: cGame::StartPlaying
+[00:04:08]: AppVersion::GetArchitecture() x64
+[00:04:08]: LOADING LUA
+[00:04:08]: DoLuaFile scripts/main.lua
+[00:04:08]: DoLuaFile loading buffer scripts/main.lua
+[00:04:08]: Translator:LoadPOFile - loading file: scripts/languages/chinese_t.po	
+[00:04:10]:   taskgrouplist:	default	連線版	
+[00:04:10]:   taskgrouplist:	classic	經典	
+[00:04:10]:   taskgrouplist:	cave_default	地下	
+[00:04:10]:   taskgrouplist:	lavaarena_taskset	熔爐	
+[00:04:10]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:04:10]: Running main.lua
+	
+[00:04:10]: loaded modindex	
+[00:04:10]: ModIndex: Beginning normal load sequence.
+	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373375099	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3092317730	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2986805687	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3044756151	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2951068194	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2964299587	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3473318774	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2795130977	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3320235585	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3448135812	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3491443180	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:04:10]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-2373375099_CLIENT	
+[00:04:10]: Loading mod: workshop-2373375099 (B-01 小地图) Version:1.7.3	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-363112314_CLIENT	
+[00:04:10]: Loading mod: workshop-363112314 (Map Revealer for DST) Version:1.1	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:04:10]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-661253977_CLIENT	
+[00:04:10]: Loading mod: workshop-661253977 ( Don't Drop Everything) Version:11:15 2020-08-10	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-3092317730_CLIENT	
+[00:04:10]: Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:04:10]: Loading mod: workshop-1185229307 (史诗血量条) Version:97	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-2986805687_CLIENT	
+[00:04:10]: Loading mod: workshop-2986805687 (黑化队列行为学（服务器版本）) Version:1.134	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-3044756151_CLIENT	
+[00:04:10]: Loading mod: workshop-3044756151 (防卡两招_新) Version:1.17	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:04:10]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-2951068194_CLIENT	
+[00:04:10]: Loading mod: workshop-2951068194 (复活按钮和传送按钮) Version:2.0.4	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-2964299587_CLIENT	
+[00:04:10]: Loading mod: workshop-2964299587 (伤害显示) Version:1.03	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-3473318774_CLIENT	
+[00:04:10]: Loading mod: workshop-3473318774 (Sparkle) Version:1.0.0.4	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-2795130977_CLIENT	
+[00:04:10]: Loading mod: workshop-2795130977 (Abigail Pro Max T PlusCup) Version:1.31	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-3320235585_CLIENT	
+[00:04:10]: Loading mod: workshop-3320235585 ([星穹铁道] 流萤) Version:0.18.g	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-3448135812_CLIENT	
+[00:04:10]: Loading mod: workshop-3448135812 (不文明的猪人台词) Version:1.2	
+[00:04:10]: loaded mod_config_data/modconfiguration_workshop-3491443180_CLIENT	
+[00:04:10]: Loading mod: workshop-3491443180 (爱莉希雅) Version:0.8.7	
+[00:04:10]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:04:10]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:04:10]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-1185229307 (史诗血量条)	Loading modmain.lua	
+[00:04:10]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:04:10]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:04:10]: ShowMe version:	0.58	
+[00:04:10]: show_food_units	-1	-1	-1	
+[00:04:10]: show_uses	-1	-1	-1	
+[00:04:10]: Detected language for ShowMe: 	auto	zht	
+[00:04:10]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modmain.lua	
+[00:04:10]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Loading modmain.lua	
+[00:04:10]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-3092317730 (Combined Status)	Loading modmain.lua	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373375099	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3092317730	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2986805687	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3044756151	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2951068194	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2964299587	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3473318774	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2795130977	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3320235585	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3448135812	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3491443180	
+[00:04:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:04:10]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-363112314 (Map Revealer for DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modmain.lua	
+[00:04:10]: Mod: workshop-3473318774 (Sparkle)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-3473318774 (Sparkle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-3473318774 (Sparkle)	Loading modmain.lua	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/strings	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/tuning	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-3491443180	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-2964299587	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-3044756151	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-3448135812	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-666155465	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-2373375099	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-2986805687	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-3473318774	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-1207269058	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-661253977	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-2795130977	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-375850593	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-1185229307	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-363112314	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-2951068194	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-3320235585	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-1595631294	
+[00:04:10]: ModIndex:GetModsToLoad inserting modname, 	workshop-3092317730	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/actions	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/skinapi	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/recipes	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/sg	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/hook	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/food	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/rpc	
+[00:04:10]: modimport: ../mods/workshop-3473318774/sparklemain/ui	
+[00:04:10]: Mod: workshop-3448135812 (不文明的猪人台词)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-3448135812 (不文明的猪人台词)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-3448135812 (不文明的猪人台词)	Loading modmain.lua	
+[00:04:10]: Translator:LoadPOFile - loading file: ../mods/workshop-3448135812/languages/chinese_s.po	
+[00:04:10]: Mod: workshop-2964299587 (伤害显示)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-2964299587 (伤害显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-2964299587 (伤害显示)	Loading modmain.lua	
+[00:04:10]: Mod: workshop-3044756151 (防卡两招_新)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-3044756151 (防卡两招_新)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-3044756151 (防卡两招_新)	Loading modmain.lua	
+[00:04:10]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Loading modmain.lua	
+[00:04:10]: Mod: workshop-3491443180 (爱莉希雅)	Loading modworldgenmain.lua	
+[00:04:10]: Mod: workshop-3491443180 (爱莉希雅)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:10]: Mod: workshop-3491443180 (爱莉希雅)	Loading modmain.lua	
+[00:04:11]: Mod: workshop-2373375099 (B-01 小地图)	Loading modworldgenmain.lua	
+[00:04:11]: Mod: workshop-2373375099 (B-01 小地图)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:11]: Mod: workshop-2373375099 (B-01 小地图)	Loading modmain.lua	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373375099	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3092317730	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2986805687	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3044756151	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2951068194	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2964299587	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3473318774	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2795130977	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3320235585	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3448135812	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3491443180	
+[00:04:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:04:11]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Loading modworldgenmain.lua	
+[00:04:11]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:11]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Loading modmain.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/honkai_mods_share_postinit.lua	
+[00:04:11]: UserDataHookLoad	3	../mods/workshop-3320235585/scripts/utils/userdatahook.lua	
+[00:04:11]: upvaluehelper loaded	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-3491443180	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-2964299587	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-3044756151	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-3448135812	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-666155465	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-2373375099	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-2986805687	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-3473318774	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-1207269058	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-661253977	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-2795130977	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-375850593	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-1185229307	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-363112314	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-2951068194	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-3320235585	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-1595631294	
+[00:04:11]: ModIndex:GetModsToLoad inserting modname, 	workshop-3092317730	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/strings.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/constants.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/containers.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/componentpostInit.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/newtechtree.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/recipes.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/skinapi.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/ui.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/scripts/SGwilson/mainSG.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/scripts/crossbow_modframework.lua	
+[00:04:11]: modimport: ../mods/workshop-3320235585/main/moretags.lua	
+[00:04:11]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:04:11]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:11]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:04:11]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:04:11]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:11]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:04:11]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Loading modworldgenmain.lua	
+[00:04:11]: Mod: workshop-2951068194 (复活按钮和传送按钮)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:11]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Loading modmain.lua	
+[00:04:11]: modimport: ../mods/workshop-2951068194/modmain/revive_button.lua	
+[00:04:11]: modimport: ../mods/workshop-2951068194/modmain/transfer_button.lua	
+[00:04:11]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:04:11]: LOADING LUA SUCCESS
+[00:04:11]: Registering Server mod namespace "workshop-2373375099"
+[00:04:11]: Registering Server mod namespace "honkai_firefly"
+[00:04:11]: Registering Server mod namespace "showme"
+[00:04:11]: Registering Server mod namespace "workshop-1207269058"
+[00:04:11]: Registering Server mod namespace "honkai"
+[00:04:11]: Registering Server mod namespace "aili"
+[00:04:11]: Registering Server mod namespace "showmeshint"
+[00:04:11]: Registering Server mod namespace "sparkle"
+[00:04:11]: Registering Server mod namespace "rt_buttons"
+[00:04:11]: Registering Client mod namespace "workshop-1185229307"
+[00:04:11]: Registering Client mod namespace "damagenumber"
+[00:04:11]: Registering Client mod namespace "rt_buttons"
+[00:04:11]: Registering Client mod namespace "sparkle"
+[00:04:11]: Registering Client mod namespace "honkai"
+[00:04:11]: PlayerDeaths loaded morgue	6219	
+[00:04:11]: PlayerHistory loaded player_history (v2) len:402	
+[00:04:11]: ServerPreferences loaded server_preferences	2	
+[00:04:11]: ConsoleScreenSettings loaded consolescreen	1008	
+[00:04:11]: bloom_enabled	false	
+[00:04:11]: EnableShadeRenderer: 	true	
+[00:04:11]: OnFilesLoaded()	
+[00:04:11]: OnUpdatePurchaseStateComplete	
+[00:04:11]: Loading world: client_temp/server_save	
+[00:04:11]: Save file is at version 5.156	
+[00:04:11]: Klump load on boot started.	
+[00:04:11]: Klump files loaded: 	0	
+[00:04:12]: 	Unload FE	
+[00:04:12]: 	Unload FE done	
+[00:04:14]: Mod: workshop-1185229307 (史诗血量条)	Registering prefabs	
+[00:04:14]: Mod: workshop-1185229307 (史诗血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:04:14]: Mod: workshop-1185229307 (史诗血量条)	    epichealth_proxy	
+[00:04:14]: Mod: workshop-1185229307 (史诗血量条)	  Registering default mod prefab	
+[00:04:14]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:04:14]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:04:14]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:04:14]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:04:14]: Mod: workshop-661253977 ( Don't Drop Everything)	Registering prefabs	
+[00:04:14]: Mod: workshop-661253977 ( Don't Drop Everything)	  Registering default mod prefab	
+[00:04:14]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Registering prefabs	
+[00:04:14]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	  Registering default mod prefab	
+[00:04:14]: Mod: workshop-3092317730 (Combined Status)	Registering prefabs	
+[00:04:14]: Mod: workshop-3092317730 (Combined Status)	  Registering default mod prefab	
+[00:04:14]: Mod: workshop-363112314 (Map Revealer for DST)	Registering prefabs	
+[00:04:14]: Mod: workshop-363112314 (Map Revealer for DST)	  Registering default mod prefab	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	Registering prefabs	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_surroundmask	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_surroundmask_leader	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_surroundmask_mask0	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_surroundmask_mask1	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_surroundmask_mask2	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_debuff	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    debuff_sparkle_xsxgj	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    debuff_sparkle_ymy	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    debuff_sparkle_hide	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_mask	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_mask	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_magicweapon_kendama	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_magicweapon_kendama	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_fumo	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_fumo	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_colorgun	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_colorgun	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_projectile	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_projectile_gun	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_gunhit	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_foods	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang_spice_salt	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi_spice_chili	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang_spice_chili	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang_spice_sugar	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang_spice_garlic	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi_spice_garlic	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi_spice_salt	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi_spice_sugar	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_fx	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_zhanjifx	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_fuxuanknowledge	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_a_nb_attackfx	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	    sparkle_rushfx	
+[00:04:14]: Mod: workshop-3473318774 (Sparkle)	  Registering default mod prefab	
+[00:04:15]: Mod: workshop-3448135812 (不文明的猪人台词)	Registering prefabs	
+[00:04:15]: Mod: workshop-3448135812 (不文明的猪人台词)	  Registering default mod prefab	
+[00:04:15]: Mod: workshop-2964299587 (伤害显示)	Registering prefabs	
+[00:04:15]: Mod: workshop-2964299587 (伤害显示)	  Registering default mod prefab	
+[00:04:15]: Mod: workshop-3044756151 (防卡两招_新)	Registering prefabs	
+[00:04:15]: Mod: workshop-3044756151 (防卡两招_新)	  Registering default mod prefab	
+[00:04:15]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Registering prefabs	
+[00:04:15]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	  Registering default mod prefab	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	Registering prefabs	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_bow	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_projectile	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_realme_key	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_realme_realm	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_bow_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_hit_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_launch_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_explode_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_unfold_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_unfold_back_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_heavybow_follow	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_heavybow_follow	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_headring	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_headring	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_headring_follow	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_realme_armor	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_realme_armor	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_cube	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_cube	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_cube_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_tool_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_buffs	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_spacetime_bow_debuff	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_cake_buff	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_storybook_buff	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_weak_buff	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_spacetime_debuff	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_yesterday	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_yesterday	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_rose	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_rose	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_foods	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_cake	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_wreath	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_wreath	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_storybook	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_storybook	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_amulet	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_amulet	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_fxs	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_ring_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_icefx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	    aili_shadow_fx	
+[00:04:15]: Mod: workshop-3491443180 (爱莉希雅)	  Registering default mod prefab	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	Registering prefabs	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/globalposition_classified	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    globalposition_classified	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/smoketrail	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    smoketrail	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    globalmapicon_noproxy	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    worldmapexplorer	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/pings	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    ping_generic	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    ping_omw	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    ping_danger	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    ping_explore	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	    ping_gohere	
+[00:04:16]: Mod: workshop-2373375099 (B-01 小地图)	  Registering default mod prefab	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Registering prefabs	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_light	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_shadowfirefly	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_shadowfirefly_mask	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_bag	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_bag	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_armor_firefly	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_armor_firefly_item	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_armor_firefly_item2	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_sword_firefly_item	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_sword_firefly_item_fx	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_preparedfoods_firefly	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_hamburger	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_hamburger_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_popcorn	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_popcorn_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_chipswithsundae	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_wholepizza_part	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_wholepizza_part_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_wholepizza	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_wholepizza_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_tea	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_tea_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_sundae	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_icecream	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_icecream_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_cakeroll	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_pie	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_pie_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_buffitems	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_foot	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_rope	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_ball	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_head	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_body	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_hand	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_optical_cone1	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_optical_cone2	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_part	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_hat	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_hat	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_curios	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_book	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_tape	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_cheese	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_pocket	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_ticket	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_pistol	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_sunderarmordebuff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_sunderarmordebuff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_hat_cny	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_hat_cny	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_hat_cny_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_card	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_card	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_knife	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_knife	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_dress	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_dress	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_soulsteel	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_rock	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_raw	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_raw_part	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_forge	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_anvil	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_forge_placer	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_anvil_placer	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_armor	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_hat	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_knife	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_tool	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_craftingmachine	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_placer	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_stuff_health	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_stuff_sanity	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_stuff_warm	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_stuff_warm_buff	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_chest_firefly	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_med	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_med_blueprint	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_med_placer	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    collapsed_honkai_chest_firefly_med	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_high	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_high_blueprint	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_high_placer	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_low	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_low_blueprint	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_low_placer	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    collapsed_honkai_chest_firefly_low	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_unbuildable	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_destiny_blueprints	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_remembrance	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_harmony	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_preservation	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_abundance	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_nihility	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_voracity	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_trailblaze	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_finality	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_erudition	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_equilibrium	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_order	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_propagation	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_the_hunt	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_destruction	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_enigmata	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_elation	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_bone_meal	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_bone_meal	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_golden_sword	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_golden_sword	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_firefly_shield	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_firefly_shield	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_firefly_shield_fx	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_teleporter_anchor_point	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_teleporter_anchor_point	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_teleporter_anchor_point_placer	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_destiny_tips	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_tips	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_mask	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_mask	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/rifle	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    sushenu	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bullet	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bullet	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    artillery	
+[00:04:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering default mod prefab	
+[00:04:17]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:04:17]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:04:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:04:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:04:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:04:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:04:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:04:17]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:04:17]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Registering prefabs	
+[00:04:17]: Mod: workshop-2951068194 (复活按钮和传送按钮)	  Registering default mod prefab	
+[00:04:17]: 	LOAD BE	
+[00:04:28]: 	LOAD BE: done	
+[00:04:28]: Adding extra World Event: year_of_the_snake	
+[00:04:28]: Adding extra World Event: year_of_the_carrat	
+[00:04:28]: Adding extra World Event: year_of_the_pig	
+[00:04:28]: Adding extra World Event: year_of_the_gobbler	
+[00:04:28]: Adding extra World Event: year_of_the_dragonfly	
+[00:04:28]: Adding extra World Event: year_of_the_beefalo	
+[00:04:28]: Adding extra World Event: year_of_the_varg	
+[00:04:28]: Adding extra World Event: winters_feast	
+[00:04:28]: Adding extra World Event: year_of_the_bunnyman	
+[00:04:28]: Adding extra World Event: year_of_the_catcoon	
+[00:04:28]: OVERRIDE: setting	regrowth	to	fast	
+[00:04:28]: OVERRIDE: setting	bearger	to	often	
+[00:04:28]: OVERRIDE: setting	healthpenalty	to	none	
+[00:04:28]: OVERRIDE: setting	deerclops	to	often	
+[00:04:28]: OVERRIDE: setting	pirateraids	to	rare	
+[00:04:28]: OVERRIDE: setting	extrastartingitems	to	5	
+[00:04:28]: OVERRIDE: setting	wildfires	to	rare	
+[00:04:28]: OVERRIDE: setting	eyeofterror	to	often	
+[00:04:28]: OVERRIDE: setting	shadowcreatures	to	rare	
+[00:04:28]: OVERRIDE: setting	darkness	to	nonlethal	
+[00:04:28]: OVERRIDE: setting	hunger	to	nonlethal	
+[00:04:28]: OVERRIDE: setting	temperaturedamage	to	nonlethal	
+[00:04:28]: OVERRIDE: setting	beequeen	to	often	
+[00:04:28]: OVERRIDE: setting	spiderqueen	to	often	
+[00:04:28]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
+[00:04:28]: OVERRIDE: setting	goosemoose	to	often	
+[00:04:28]: OVERRIDE: setting	carrots_regrowth	to	fast	
+[00:04:28]: OVERRIDE: setting	lessdamagetaken	to	always	
+[00:04:28]: OVERRIDE: setting	cactus_regrowth	to	fast	
+[00:04:28]: OVERRIDE: setting	crabking	to	often	
+[00:04:28]: OVERRIDE: setting	dragonfly	to	often	
+[00:04:28]: OVERRIDE: setting	antliontribute	to	rare	
+[00:04:28]: OVERRIDE: setting	deciduousmonster	to	often	
+[00:04:28]: OVERRIDE: setting	malbatross	to	often	
+[00:04:28]: OVERRIDE: setting	liefs	to	often	
+[00:04:28]: OVERRIDE: setting	sharkboi	to	often	
+[00:04:28]: OVERRIDE: setting	daywalker2	to	often	
+[00:04:28]: OVERRIDE: setting	klaus	to	often	
+[00:04:28]: OVERRIDE: setting	fruitfly	to	often	
+[00:04:28]: OVERRIDE: setting	twiggytrees_regrowth	to	fast	
+[00:04:28]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3473318774/images/map_icons/sparkle.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3491443180/images/map_icons/aili.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/campfire.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_generic.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_gohere.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_explore.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_danger.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_omw.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/bh_firefly.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_soulsteel_rock.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_soulsteel_forge.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_soulsteel_anvil.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_craftingmachine.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_chest_firefly_low.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_chest_firefly_med.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_chest_firefly_high.xml )
+[00:04:28]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/bh_firefly_mask.xml )
+[00:04:28]: Loading 22 new character(s)	
+[00:04:29]: Total 22 character(s) loaded	
+[00:04:29]: World generated on build 674842 with save version: 5.156, using seed: 	
+[00:04:29]: OVERRIDE: setting	hounds	to	rare	
+[00:04:29]: OVERRIDE: setting	ghostenabled	to	always	
+[00:04:29]: OVERRIDE: setting	resettime	to	none	
+[00:04:29]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:04:29]: OVERRIDE: setting	portalresurection	to	always	
+[00:04:29]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:04:29]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:04:29]: Reconstructing topology	
+[00:04:29]: 	...Sorting points	
+[00:04:29]: 	...Sorting edges	
+[00:04:29]: 	...Connecting nodes	
+[00:04:29]: 	...Validating connections	
+[00:04:29]: 	...Housekeeping	
+[00:04:29]: 	...Done!	
+[00:04:29]: Check for write access: TRUE
+[00:04:29]: Check for read access: TRUE
+[00:04:29]: Available disk space for save files: 171750 MB
+[00:04:29]: ModIndex: Load sequence finished successfully.	
+[00:04:29]: Reset() returning
+[00:04:41]: Attempting to send resume request
+[00:04:42]: ReceiveResumeNotification
+[00:04:42]: Movement prediction enabled	
+[00:04:42]: [ActionQueue] Adding ActionQueuer component	
+[00:04:42]: Deserializing tile data (425 x 425)
+[00:04:42]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:08:58]: SAVING Morgue	39	
+[00:09:57]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:17:57]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:25:58]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:30:02]: [200] Account Communication Success (6)
+[00:30:02]: Received (KU_vLUNqxeJ) from TokenPurpose
+[00:33:58]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:40:53]: Invalid RPC data type
+[00:41:59]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:49:59]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:50:05]: Could not find anim [spawn] in bank [squiderp]
+[00:50:06]: Could not find anim [spawn] in bank [squiderp]
+[00:52:27]: Server Paused	
+[00:53:02]: DoRestart:	true	
+[00:53:03]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:53:03]: [Steam] Game Connection terminated (2130706433|10999)
+[00:53:03]: [Shard] Stopping shard mode
+[00:53:03]: [Workshop] CancelDownloads for all pending downloads
+[00:53:03]: [IPC] Sending signal... #000000000000131C
+[00:53:05]: [IPC] Unregistering handler for signal #00000000000013A4
+[00:53:05]: [IPC] Unregistering handler for signal #000000000000123C
+[00:53:05]: [IPC] Unregistering handler for signal #00000000000012F0
+[00:53:05]: [IPC] Unregistering handler for signal #0000000000000F7C
+[00:53:05]: [IPC] Unregistering handler for signal #00000000000011E0
+[00:53:05]: [IPC] Sending signal... #0000000000001374
+[00:53:07]: [IPC] Unregistering handler for signal #000000000000137C
+[00:53:07]: [IPC] Unregistering handler for signal #0000000000000FD4
+[00:53:07]: [IPC] Unregistering handler for signal #00000000000012C0
+[00:53:07]: [IPC] Unregistering handler for signal #00000000000011F8
+[00:53:07]: [IPC] Unregistering handler for signal #000000000000138C
+[00:53:07]: Collecting garbage...
+[00:53:07]: lua_gc took 0.14 seconds
+[00:53:07]: ~ShardLuaProxy()
+[00:53:07]: ~cEventLeaderboardProxy()
+[00:53:07]: ~ItemServerLuaProxy()
+[00:53:07]: ~InventoryLuaProxy()
+[00:53:07]: ~NetworkLuaProxy()
+[00:53:07]: ~SimLuaProxy()
+[00:53:07]: [Workshop] CancelDownloads for all pending downloads
+[00:53:07]: lua_close took 0.17 seconds
+[00:53:07]: ReleaseAll
+[00:53:07]: ReleaseAll Finished
+[00:53:07]: cGame::StartPlaying
+[00:53:07]: AppVersion::GetArchitecture() x64
+[00:53:07]: LOADING LUA
+[00:53:07]: DoLuaFile scripts/main.lua
+[00:53:07]: DoLuaFile loading buffer scripts/main.lua
+[00:53:07]: Translator:LoadPOFile - loading file: scripts/languages/chinese_t.po	
+[00:53:09]:   taskgrouplist:	default	連線版	
+[00:53:09]:   taskgrouplist:	classic	經典	
+[00:53:09]:   taskgrouplist:	cave_default	地下	
+[00:53:09]:   taskgrouplist:	lavaarena_taskset	熔爐	
+[00:53:09]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:53:09]: Running main.lua
+	
+[00:53:09]: unloading prefabs for mod workshop-1185229307 (史诗血量条)	
+[00:53:09]: unloading prefabs for mod workshop-375850593 (Extra Equip Slots)	
+[00:53:09]: unloading prefabs for mod workshop-666155465 (Show Me (Origin))	
+[00:53:09]: unloading prefabs for mod workshop-661253977 ( Don't Drop Everything)	
+[00:53:09]: unloading prefabs for mod workshop-2795130977 (Abigail Pro Max T PlusCup)	
+[00:53:09]: unloading prefabs for mod workshop-3092317730 (Combined Status)	
+[00:53:09]: unloading prefabs for mod workshop-363112314 (Map Revealer for DST)	
+[00:53:09]: unloading prefabs for mod workshop-3473318774 (Sparkle)	
+[00:53:09]: unloading prefabs for mod workshop-3448135812 (不文明的猪人台词)	
+[00:53:09]: unloading prefabs for mod workshop-2964299587 (伤害显示)	
+[00:53:09]: unloading prefabs for mod workshop-3044756151 (防卡两招_新)	
+[00:53:09]: unloading prefabs for mod workshop-2986805687 (黑化队列行为学（服务器版本）)	
+[00:53:09]: unloading prefabs for mod workshop-3491443180 (爱莉希雅)	
+[00:53:09]: unloading prefabs for mod workshop-2373375099 (B-01 小地图)	
+[00:53:09]: unloading prefabs for mod workshop-3320235585 ([星穹铁道] 流萤)	
+[00:53:09]: unloading prefabs for mod workshop-1595631294 (Smart Minisign)	
+[00:53:09]: unloading prefabs for mod workshop-1207269058 ( Simple Health Bar DST)	
+[00:53:09]: unloading prefabs for mod workshop-2951068194 (复活按钮和传送按钮)	
+[00:53:09]: unloading prefabs for mod SMARTSIGNOTHER	
+[00:53:09]: loaded modindex	
+[00:53:09]: ModIndex: Beginning normal load sequence.
+	
+[00:53:09]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:53:10]: LOADING LUA SUCCESS
+[00:53:10]: PlayerDeaths loaded morgue	6053	
+[00:53:10]: PlayerHistory loaded player_history (v2) len:402	
+[00:53:10]: ServerPreferences loaded server_preferences	2	
+[00:53:10]: ConsoleScreenSettings loaded consolescreen	1008	
+[00:53:10]: bloom_enabled	false	
+[00:53:10]: EnableShadeRenderer: 	true	
+[00:53:10]: loaded shardsaveindex	
+[00:53:10]: OnFilesLoaded()	
+[00:53:10]: OnUpdatePurchaseStateComplete	
+[00:53:10]: Klump load on boot started.	
+[00:53:10]: Klump files loaded: 	0	
+[00:53:10]: 	Unload characters	
+[00:53:10]: 	Unload BE	
+[00:53:10]: 	Unload BE done	
+[00:53:10]: Could not unload undefined prefab (wurt_merm_planar)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med1)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med2)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med1)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med2)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med1)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med2)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med1)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med2)
+[00:53:10]: Could not unload undefined prefab (wurt_merm_planar)
+[00:53:10]: Could not unload undefined prefab (horrorfuel_castfx)
+[00:53:10]: Could not unload undefined prefab (cookedsmallmeat)
+[00:53:10]: Could not unload undefined prefab (spoiled_food)
+[00:53:10]: Could not unload undefined prefab (shadowmeteor)
+[00:53:10]: Could not unload undefined prefab (moon_altar_link_contained)
+[00:53:10]: Could not unload undefined prefab (gestalt_alterguardian_projectile)
+[00:53:10]: Could not unload undefined prefab (mining_moonglass_fx)
+[00:53:10]: Could not unload undefined prefab (moon_device_break_stage1)
+[00:53:10]: Could not unload undefined prefab (moon_device_break_stage2)
+[00:53:10]: Could not unload undefined prefab (moon_device_break_stage3)
+[00:53:10]: Could not unload undefined prefab (moon_altar_break)
+[00:53:10]: Could not unload undefined prefab (moon_altar_crown_break)
+[00:53:10]: Could not unload undefined prefab (burntground)
+[00:53:10]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[00:53:10]: Could not unload undefined prefab (construction_container)
+[00:53:10]: Could not unload undefined prefab (moon_altar_link_contained)
+[00:53:10]: Could not unload undefined prefab (moon_device_break_stage1)
+[00:53:10]: Could not unload undefined prefab (moon_device_break_stage2)
+[00:53:10]: Could not unload undefined prefab (moon_device_break_stage3)
+[00:53:10]: Could not unload undefined prefab (moon_altar_break)
+[00:53:10]: Could not unload undefined prefab (moon_altar_crown_break)
+[00:53:10]: Could not unload undefined prefab (burntground)
+[00:53:10]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[00:53:10]: Could not unload undefined prefab (construction_container)
+[00:53:10]: Could not unload undefined prefab (ash)
+[00:53:10]: Could not unload undefined prefab (campfirefire)
+[00:53:10]: Could not unload undefined prefab (ash)
+[00:53:10]: Could not unload undefined prefab (campfirefire)
+[00:53:10]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med1)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med2)
+[00:53:10]: Could not unload undefined prefab (splash_ocean)
+[00:53:10]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med1)
+[00:53:10]: Could not unload undefined prefab (ocean_splash_med2)
+[00:53:10]: Could not unload undefined prefab (splash_ocean)
+[00:53:11]: 	Load FE	
+[00:53:12]: 	Load FE: done	
+[00:53:12]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1616108184/client_save/blocklist.txt (Failure)
+[00:53:12]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1616108184/client_save/adminlist.txt (Failure)
+[00:53:12]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1616108184/client_save/whitelist.txt (Failure)
+[00:53:12]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=TW&lang=tchinese&version=677072	
+[00:53:12]: Check for write access: TRUE
+[00:53:12]: Check for read access: TRUE
+[00:53:12]: Available disk space for save files: 171757 MB
+[00:53:12]: ModIndex: Load sequence finished successfully.	
+[00:53:12]: Reset() returning
+[00:53:12]: Do AutoLogin	
+[00:53:13]: [200] Account Communication Success (6)
+[00:53:13]: Received (KU_vLUNqxeJ) from TokenPurpose
+[00:53:13]: [Steam] Auth Session Ticket requested...
+[00:53:13]: There is no active event to get the status of.
+[00:53:13]: [DLCS] 0, 2132800:0, 1338540:0, 1485060:0, 2236180:0, 282470:0, 840750:0, 1558300:0, 1205500:0, 1084430:0, 1289760:0, 1899050:0, 1051700:0, 3155070:0, 1205501:0, 981701:0, 840770:0, 1167510:0, 1447360:0, 981700:0, 840760:0, 382560:0, 1694780:0, 1874370:0, 798750:0, 1522880:0, 1230830:0, 1710241:0, 457140:0, 1172860:0, 1272440:0, 1710240:0, 2241030:0, 2711510:0, 3373370:0, 393010:0, 987340:0, 2058281:0, 962960:0, 1167330:0, 2170670:0, 2058280:0, 798740:0, 2170671:0, 1612410:0, 1836630:0, 2769680:0, 3373360:0, 974740:0, 1698560:0, 2377640:0, 2007370:0, 712640:0, 981702:0
+[00:53:13]: [Steam] Got Auth Session Ticket
+[00:53:13]: could not load pending_keyvalues_prod
+[00:53:13]: [MOTD] Done Loading.	
+[00:53:14]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_cookbook_prod
+[00:53:14]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_scrapbook5_prod
+[00:53:14]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_scrapbook11_prod
+[00:53:14]: loaded inventory_cache_prod
+[00:53:14]: using inventory state token from cached file
+[00:53:16]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/inventory_cache_prod
+[00:53:16]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/inventory_cache_prod_sig
+[00:53:17]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:53:17]: [Workshop] ModQuery got 23 results
+[00:53:17]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:53:17]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:53:17]: [Workshop] ItemQuery finished downloading everything
+[00:53:20]: Getting top mod details...
+[00:53:20]: Frontend-Unloading mod 'all'.	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3491443180	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2964299587	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-666155465	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2373375099	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2986805687	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3473318774	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-661253977	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2795130977	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-1185229307	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3044756151	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3092317730	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3320235585	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2951068194	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-1595631294	
+[00:53:20]: FrontendLoadMod	workshop-3491443180	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3491443180	
+[00:53:20]: Fontend-Loading mod: workshop-3491443180 (爱莉希雅) Version:0.8.7	
+[00:53:20]: Mod: workshop-3491443180 (爱莉希雅)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-3491443180 (爱莉希雅)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-3491443180 (爱莉希雅)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-3491443180 (爱莉希雅)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-2964299587	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2964299587	
+[00:53:20]: Fontend-Loading mod: workshop-2964299587 (伤害显示) Version:1.03	
+[00:53:20]: Mod: workshop-2964299587 (伤害显示)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-2964299587 (伤害显示)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-2964299587 (伤害显示)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-2964299587 (伤害显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-1207269058	
+[00:53:20]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:53:20]: Fontend-Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:53:20]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-3448135812	
+[00:53:20]: Could not load mod_config_data/modconfiguration_workshop-3448135812	
+[00:53:20]: Fontend-Loading mod: workshop-3448135812 (不文明的猪人台词) Version:1.2	
+[00:53:20]: Mod: workshop-3448135812 (不文明的猪人台词)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-3448135812 (不文明的猪人台词)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-3448135812 (不文明的猪人台词)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-3448135812 (不文明的猪人台词)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-666155465	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-666155465	
+[00:53:20]: Fontend-Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:53:20]: Mod: workshop-666155465 (Show Me (Origin))	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-2373375099	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2373375099	
+[00:53:20]: Fontend-Loading mod: workshop-2373375099 (B-01 小地图) Version:1.7.3	
+[00:53:20]: Mod: workshop-2373375099 (B-01 小地图)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-2373375099 (B-01 小地图)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-2373375099 (B-01 小地图)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-2373375099 (B-01 小地图)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-2986805687	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2986805687	
+[00:53:20]: Fontend-Loading mod: workshop-2986805687 (黑化队列行为学（服务器版本）) Version:1.134	
+[00:53:20]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-3473318774	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3473318774	
+[00:53:20]: Fontend-Loading mod: workshop-3473318774 (Sparkle) Version:1.0.0.4	
+[00:53:20]: Mod: workshop-3473318774 (Sparkle)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-3473318774 (Sparkle)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-3473318774 (Sparkle)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-3473318774 (Sparkle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-3044756151	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3044756151	
+[00:53:20]: Fontend-Loading mod: workshop-3044756151 (防卡两招_新) Version:1.17	
+[00:53:20]: Mod: workshop-3044756151 (防卡两招_新)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-3044756151 (防卡两招_新)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-3044756151 (防卡两招_新)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-3044756151 (防卡两招_新)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-661253977	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-661253977	
+[00:53:20]: Fontend-Loading mod: workshop-661253977 ( Don't Drop Everything) Version:11:15 2020-08-10	
+[00:53:20]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-375850593	
+[00:53:20]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:53:20]: Fontend-Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:53:20]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-2795130977	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2795130977	
+[00:53:20]: Fontend-Loading mod: workshop-2795130977 (Abigail Pro Max T PlusCup) Version:1.31	
+[00:53:20]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-1595631294	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-1595631294	
+[00:53:20]: Fontend-Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:53:20]: Mod: workshop-1595631294 (Smart Minisign)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-363112314	
+[00:53:20]: Could not load mod_config_data/modconfiguration_workshop-363112314	
+[00:53:20]: Fontend-Loading mod: workshop-363112314 (Map Revealer for DST) Version:1.1	
+[00:53:20]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-363112314 (Map Revealer for DST)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-363112314 (Map Revealer for DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-2951068194	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-2951068194	
+[00:53:20]: Fontend-Loading mod: workshop-2951068194 (复活按钮和传送按钮) Version:2.0.4	
+[00:53:20]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-2951068194 (复活按钮和传送按钮)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-2951068194 (复活按钮和传送按钮)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-3320235585	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3320235585	
+[00:53:20]: Fontend-Loading mod: workshop-3320235585 ([星穹铁道] 流萤) Version:0.18.g	
+[00:53:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-1185229307	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-1185229307	
+[00:53:20]: Fontend-Loading mod: workshop-1185229307 (史诗血量条) Version:97	
+[00:53:20]: Mod: workshop-1185229307 (史诗血量条)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: FrontendLoadMod	workshop-3092317730	
+[00:53:20]: loaded mod_config_data/modconfiguration_workshop-3092317730	
+[00:53:20]: Fontend-Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:53:20]: Mod: workshop-3092317730 (Combined Status)	Loading modservercreationmain.lua	
+[00:53:20]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:53:20]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:53:20]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:53:20]: GOT top mod details...50
+[00:53:20]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:53:20]: [Workshop] ModQuery got 23 results
+[00:53:20]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:53:20]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:53:20]: [Workshop] ItemQuery finished downloading everything
+[00:53:21]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:53:21]: [Workshop] ModQuery got 23 results
+[00:53:21]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:53:21]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:53:21]: [Workshop] ItemQuery finished downloading everything
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-3491443180	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-2964299587	
+[00:53:23]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:53:23]: Could not load mod_config_data/modconfiguration_workshop-3448135812	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-666155465	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-2373375099	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-2986805687	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-3473318774	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-3044756151	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-661253977	
+[00:53:23]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-2795130977	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-1595631294	
+[00:53:23]: Could not load mod_config_data/modconfiguration_workshop-363112314	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-2951068194	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-3320235585	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-1185229307	
+[00:53:23]: loaded mod_config_data/modconfiguration_workshop-3092317730	
+[00:53:23]: [IPC] Clearing pending signals #00000000000013A4...
+[00:53:23]: [IPC] Registering handler for signal #00000000000013A4
+[00:53:23]: [IPC] Handle #00000000000013A4 added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #000000000000123C...
+[00:53:23]: [IPC] Registering handler for signal #000000000000123C
+[00:53:23]: [IPC] Handle #000000000000123C added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #00000000000012F0...
+[00:53:23]: [IPC] Registering handler for signal #00000000000012F0
+[00:53:23]: [IPC] Handle #00000000000012F0 added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #0000000000000F7C...
+[00:53:23]: [IPC] Registering handler for signal #0000000000000F7C
+[00:53:23]: [IPC] Handle #0000000000000F7C added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #00000000000011E0...
+[00:53:23]: [IPC] Registering handler for signal #00000000000011E0
+[00:53:23]: [IPC] Handle #00000000000011E0 added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #000000000000131C...
+[00:53:23]: [IPC] Clearing pending signals #000000000000133C...
+[00:53:23]: [IPC] Clearing pending signals #000000000000137C...
+[00:53:23]: [IPC] Registering handler for signal #000000000000137C
+[00:53:23]: [IPC] Handle #000000000000137C added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #0000000000000FD4...
+[00:53:23]: [IPC] Registering handler for signal #0000000000000FD4
+[00:53:23]: [IPC] Handle #0000000000000FD4 added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #00000000000012C0...
+[00:53:23]: [IPC] Registering handler for signal #00000000000012C0
+[00:53:23]: [IPC] Handle #00000000000012C0 added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #00000000000011F8...
+[00:53:23]: [IPC] Registering handler for signal #00000000000011F8
+[00:53:23]: [IPC] Handle #00000000000011F8 added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #000000000000138C...
+[00:53:23]: [IPC] Registering handler for signal #000000000000138C
+[00:53:23]: [IPC] Handle #000000000000138C added to the Eventhandles
+[00:53:23]: [IPC] Clearing pending signals #0000000000001374...
+[00:53:23]: [IPC] Clearing pending signals #0000000000001334...
+[00:53:34]: [IPC] Received DST_Master Starting signal !
+[00:53:34]: [IPC] Received DST_Secondary Starting signal !
+[00:54:04]: [IPC] Received DST_Master Ready signal !
+[00:54:11]: [IPC] Received DST_Secondary Ready signal !
+[00:54:11]: [Connect] Init client connection to 127.0.0.1|10999
+[00:54:11]: [Connect] PendingConnection::Reset(true)
+[00:54:11]: [Workshop] CancelDownloads for all pending downloads
+[00:54:11]: [Connect] InternalInitClient <4988382982052876452>
+[00:54:11]: [Shard] Starting shard mode as player
+[00:54:11]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:54:11]: [Connect] Sending ping(s)...
+[00:54:11]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:54:11]: [Connect] Ping response from 127.0.0.1|10999
+[00:54:11]: [Connect] Joining server from ping response...
+[00:54:11]: [Connect] Got join server response from lua
+[00:54:11]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:54:11]: [Workshop] ModQuery got 23 results
+[00:54:11]: [Workshop] ModQuery queued to download IDs: 3491443180 3475117839 3473318774 3448135812 3343140219 3320235585 3170953574 3092317730 3044756151 2986805687 2964299587 2951068194 2795130977 2555936751 2373375099 1595631294 1207269058 1185229307 666155465 661253977 376333686 375850593 363112314
+[00:54:11]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:54:11]: [Workshop] ItemQuery finished downloading everything
+[00:54:11]: [200] Account Communication Success (13)
+[00:54:11]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:54:11]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:54:11]: Connection accepted to 127.0.0.1|10999 <2792648600418239254>
+[00:54:11]: Network external address discovered: 127.0.0.1|63695
+[00:54:11]: SendClientHandShakePacket to <2792648600418239254>
+[00:54:12]: DeserializeHandShakeServerListing
+[00:54:12]: Network tick rate: U=10(3), D=15
+[00:54:12]: Platform: 1
+[00:54:12]: Version: 677072
+[00:54:12]: [Steam] Game Connection initiated
+[00:54:12]: SendClientInventoryHandShakePacket to <2792648600418239254>
+[00:54:12]: Begin Session: 004518B9C3B89113
+[00:54:13]: Done Downloading Client Object Data
+[00:54:13]: DownloadMods and temp disable	
+[00:54:13]: We now have the required mods, enable them for server	
+[00:54:13]: Temp Enabling workshop-3491443180	
+[00:54:13]: Temp Enabling workshop-2964299587	
+[00:54:13]: Temp Enabling workshop-1207269058	
+[00:54:13]: Temp Enabling workshop-3448135812	
+[00:54:13]: Temp Enabling workshop-666155465	
+[00:54:13]: Temp Enabling workshop-2373375099	
+[00:54:13]: Temp Enabling workshop-2986805687	
+[00:54:13]: Temp Enabling workshop-3473318774	
+[00:54:13]: Temp Enabling workshop-2795130977	
+[00:54:13]: Temp Enabling workshop-3044756151	
+[00:54:13]: Temp Enabling workshop-1595631294	
+[00:54:13]: Temp Enabling workshop-3092317730	
+[00:54:13]: Temp Enabling workshop-2951068194	
+[00:54:13]: Temp Enabling workshop-3320235585	
+[00:54:13]: Temp Enabling workshop-375850593	
+[00:54:13]: Temp Enabling workshop-1185229307	
+[00:54:13]: ModIndex:SetTempModConfigData	
+[00:54:13]: Setting temp mod config for mod 	workshop-2373375099	
+[00:54:13]: Setting temp mod config for mod 	workshop-2986805687	
+[00:54:13]: Setting temp mod config for mod 	workshop-3473318774	
+[00:54:13]: Setting temp mod config for mod 	workshop-3044756151	
+[00:54:13]: Setting temp mod config for mod 	workshop-2964299587	
+[00:54:13]: Setting temp mod config for mod 	workshop-375850593	
+[00:54:13]: Setting temp mod config for mod 	workshop-3491443180	
+[00:54:13]: Setting temp mod config for mod 	workshop-2795130977	
+[00:54:13]: Setting temp mod config for mod 	workshop-1207269058	
+[00:54:13]: Setting temp mod config for mod 	workshop-1185229307	
+[00:54:13]: Setting temp mod config for mod 	workshop-3448135812	
+[00:54:13]: Setting temp mod config for mod 	workshop-666155465	
+[00:54:13]: Setting temp mod config for mod 	workshop-3092317730	
+[00:54:13]: Setting temp mod config for mod 	workshop-3320235585	
+[00:54:13]: Setting temp mod config for mod 	workshop-2951068194	
+[00:54:13]: Setting temp mod config for mod 	workshop-1595631294	
+[00:54:13]: Mods are setup for server, save the mod index and proceed.	
+[00:54:13]: Downloading [1] From: server_temp
+[00:54:13]: 1 (40%) 1/1 server_temp/server_save 114000b / 283055b
+[00:54:13]: 1 (80%) 1/1 server_temp/server_save 228000b / 283055b
+[00:54:13]: 1 (100%) 1/1 server_temp/server_save 283055b / 283055b
+[00:54:13]: Download complete[1] Files: 1 Size: 283055
+[00:54:13]: Collecting garbage...
+[00:54:13]: lua_gc took 0.12 seconds
+[00:54:13]: ~ShardLuaProxy()
+[00:54:13]: ~cEventLeaderboardProxy()
+[00:54:13]: ~ItemServerLuaProxy()
+[00:54:13]: ~InventoryLuaProxy()
+[00:54:13]: ~NetworkLuaProxy()
+[00:54:13]: ~SimLuaProxy()
+[00:54:13]: Cancelling LuaQueryCallback handle [10]
+[00:54:13]: [Workshop] CancelDownloads for all pending downloads
+[00:54:13]: lua_close took 0.13 seconds
+[00:54:13]: ReleaseAll
+[00:54:13]: ReleaseAll Finished
+[00:54:13]: cGame::StartPlaying
+[00:54:13]: AppVersion::GetArchitecture() x64
+[00:54:13]: LOADING LUA
+[00:54:13]: DoLuaFile scripts/main.lua
+[00:54:13]: DoLuaFile loading buffer scripts/main.lua
+[00:54:13]: Translator:LoadPOFile - loading file: scripts/languages/chinese_t.po	
+[00:54:15]:   taskgrouplist:	default	連線版	
+[00:54:15]:   taskgrouplist:	classic	經典	
+[00:54:15]:   taskgrouplist:	cave_default	地下	
+[00:54:15]:   taskgrouplist:	lavaarena_taskset	熔爐	
+[00:54:15]:   taskgrouplist:	quagmire_taskset	暴食	
+[00:54:15]: Running main.lua
+	
+[00:54:15]: loaded modindex	
+[00:54:15]: ModIndex: Beginning normal load sequence.
+	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373375099	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3092317730	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2986805687	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3044756151	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2951068194	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2964299587	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3473318774	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2795130977	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3320235585	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3448135812	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3491443180	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:54:15]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-2373375099_CLIENT	
+[00:54:15]: Loading mod: workshop-2373375099 (B-01 小地图) Version:1.7.3	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-363112314_CLIENT	
+[00:54:15]: Loading mod: workshop-363112314 (Map Revealer for DST) Version:1.1	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:54:15]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-661253977_CLIENT	
+[00:54:15]: Loading mod: workshop-661253977 ( Don't Drop Everything) Version:11:15 2020-08-10	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-3092317730_CLIENT	
+[00:54:15]: Loading mod: workshop-3092317730 (Combined Status) Version:1.9.1d	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:54:15]: Loading mod: workshop-1185229307 (史诗血量条) Version:97	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-2986805687_CLIENT	
+[00:54:15]: Loading mod: workshop-2986805687 (黑化队列行为学（服务器版本）) Version:1.134	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-3044756151_CLIENT	
+[00:54:15]: Loading mod: workshop-3044756151 (防卡两招_新) Version:1.17	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:54:15]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.16	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-2951068194_CLIENT	
+[00:54:15]: Loading mod: workshop-2951068194 (复活按钮和传送按钮) Version:2.0.4	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-2964299587_CLIENT	
+[00:54:15]: Loading mod: workshop-2964299587 (伤害显示) Version:1.03	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-3473318774_CLIENT	
+[00:54:15]: Loading mod: workshop-3473318774 (Sparkle) Version:1.0.0.4	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-2795130977_CLIENT	
+[00:54:15]: Loading mod: workshop-2795130977 (Abigail Pro Max T PlusCup) Version:1.31	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-3320235585_CLIENT	
+[00:54:15]: Loading mod: workshop-3320235585 ([星穹铁道] 流萤) Version:0.18.g	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-3448135812_CLIENT	
+[00:54:15]: Loading mod: workshop-3448135812 (不文明的猪人台词) Version:1.2	
+[00:54:15]: loaded mod_config_data/modconfiguration_workshop-3491443180_CLIENT	
+[00:54:15]: Loading mod: workshop-3491443180 (爱莉希雅) Version:0.8.7	
+[00:54:15]: Could not load mod_config_data/modconfiguration_workshop-666155465_CLIENT	
+[00:54:15]: Loading mod: workshop-666155465 (Show Me (Origin)) Version:0.58	
+[00:54:15]: Mod: workshop-1185229307 (史诗血量条)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-1185229307 (史诗血量条)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-1185229307 (史诗血量条)	Loading modmain.lua	
+[00:54:15]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:54:15]: Mod: workshop-666155465 (Show Me (Origin))	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-666155465 (Show Me (Origin))	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-666155465 (Show Me (Origin))	Loading modmain.lua	
+[00:54:15]: ShowMe version:	0.58	
+[00:54:15]: show_food_units	-1	-1	-1	
+[00:54:15]: show_uses	-1	-1	-1	
+[00:54:15]: Detected language for ShowMe: 	auto	zht	
+[00:54:15]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-661253977 ( Don't Drop Everything)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-661253977 ( Don't Drop Everything)	Loading modmain.lua	
+[00:54:15]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Loading modmain.lua	
+[00:54:15]: Mod: workshop-3092317730 (Combined Status)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-3092317730 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-3092317730 (Combined Status)	Loading modmain.lua	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373375099	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3092317730	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2986805687	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3044756151	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2951068194	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2964299587	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3473318774	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2795130977	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3320235585	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3448135812	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3491443180	
+[00:54:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:54:15]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-363112314 (Map Revealer for DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modmain.lua	
+[00:54:15]: Mod: workshop-3473318774 (Sparkle)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-3473318774 (Sparkle)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-3473318774 (Sparkle)	Loading modmain.lua	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/strings	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/tuning	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-3491443180	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-2964299587	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-3044756151	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-3448135812	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-666155465	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-2373375099	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-2986805687	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-3473318774	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-1207269058	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-661253977	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-2795130977	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-375850593	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-1185229307	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-363112314	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-2951068194	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-3320235585	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-1595631294	
+[00:54:15]: ModIndex:GetModsToLoad inserting modname, 	workshop-3092317730	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/actions	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/skinapi	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/recipes	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/sg	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/hook	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/food	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/rpc	
+[00:54:15]: modimport: ../mods/workshop-3473318774/sparklemain/ui	
+[00:54:15]: Mod: workshop-3448135812 (不文明的猪人台词)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-3448135812 (不文明的猪人台词)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-3448135812 (不文明的猪人台词)	Loading modmain.lua	
+[00:54:15]: Translator:LoadPOFile - loading file: ../mods/workshop-3448135812/languages/chinese_s.po	
+[00:54:15]: Mod: workshop-2964299587 (伤害显示)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-2964299587 (伤害显示)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-2964299587 (伤害显示)	Loading modmain.lua	
+[00:54:15]: Mod: workshop-3044756151 (防卡两招_新)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-3044756151 (防卡两招_新)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-3044756151 (防卡两招_新)	Loading modmain.lua	
+[00:54:15]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Loading modmain.lua	
+[00:54:15]: Mod: workshop-3491443180 (爱莉希雅)	Loading modworldgenmain.lua	
+[00:54:15]: Mod: workshop-3491443180 (爱莉希雅)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:15]: Mod: workshop-3491443180 (爱莉希雅)	Loading modmain.lua	
+[00:54:16]: Mod: workshop-2373375099 (B-01 小地图)	Loading modworldgenmain.lua	
+[00:54:16]: Mod: workshop-2373375099 (B-01 小地图)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:16]: Mod: workshop-2373375099 (B-01 小地图)	Loading modmain.lua	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2373375099	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-661253977	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3092317730	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1185229307	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2986805687	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3044756151	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2951068194	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2964299587	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3473318774	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2795130977	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3320235585	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3448135812	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-3491443180	
+[00:54:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-666155465	
+[00:54:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Loading modworldgenmain.lua	
+[00:54:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:16]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Loading modmain.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/honkai_mods_share_postinit.lua	
+[00:54:16]: UserDataHookLoad	3	../mods/workshop-3320235585/scripts/utils/userdatahook.lua	
+[00:54:16]: upvaluehelper loaded	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-3491443180	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-2964299587	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-3044756151	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-3448135812	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-666155465	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-2373375099	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-2986805687	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-3473318774	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-1207269058	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-661253977	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-2795130977	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-375850593	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-1185229307	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-363112314	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-2951068194	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-3320235585	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-1595631294	
+[00:54:16]: ModIndex:GetModsToLoad inserting modname, 	workshop-3092317730	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/strings.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/constants.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/containers.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/componentpostInit.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/newtechtree.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/recipes.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/skinapi.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/ui.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/scripts/SGwilson/mainSG.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/scripts/crossbow_modframework.lua	
+[00:54:16]: modimport: ../mods/workshop-3320235585/main/moretags.lua	
+[00:54:16]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:54:16]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:16]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:54:16]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:54:16]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:16]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:54:16]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Loading modworldgenmain.lua	
+[00:54:16]: Mod: workshop-2951068194 (复活按钮和传送按钮)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:54:16]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Loading modmain.lua	
+[00:54:16]: modimport: ../mods/workshop-2951068194/modmain/revive_button.lua	
+[00:54:16]: modimport: ../mods/workshop-2951068194/modmain/transfer_button.lua	
+[00:54:17]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:54:17]: LOADING LUA SUCCESS
+[00:54:17]: Registering Server mod namespace "workshop-2373375099"
+[00:54:17]: Registering Server mod namespace "honkai_firefly"
+[00:54:17]: Registering Server mod namespace "showme"
+[00:54:17]: Registering Server mod namespace "workshop-1207269058"
+[00:54:17]: Registering Server mod namespace "honkai"
+[00:54:17]: Registering Server mod namespace "aili"
+[00:54:17]: Registering Server mod namespace "showmeshint"
+[00:54:17]: Registering Server mod namespace "sparkle"
+[00:54:17]: Registering Server mod namespace "rt_buttons"
+[00:54:17]: Registering Client mod namespace "workshop-1185229307"
+[00:54:17]: Registering Client mod namespace "damagenumber"
+[00:54:17]: Registering Client mod namespace "rt_buttons"
+[00:54:17]: Registering Client mod namespace "sparkle"
+[00:54:17]: Registering Client mod namespace "honkai"
+[00:54:17]: PlayerDeaths loaded morgue	6053	
+[00:54:17]: PlayerHistory loaded player_history (v2) len:402	
+[00:54:17]: ServerPreferences loaded server_preferences	2	
+[00:54:17]: ConsoleScreenSettings loaded consolescreen	1008	
+[00:54:17]: bloom_enabled	false	
+[00:54:17]: EnableShadeRenderer: 	true	
+[00:54:17]: OnFilesLoaded()	
+[00:54:17]: OnUpdatePurchaseStateComplete	
+[00:54:17]: Loading world: client_temp/server_save	
+[00:54:17]: Save file is at version 5.156	
+[00:54:17]: Klump load on boot started.	
+[00:54:17]: Klump files loaded: 	0	
+[00:54:17]: 	Unload FE	
+[00:54:17]: 	Unload FE done	
+[00:54:19]: Mod: workshop-1185229307 (史诗血量条)	Registering prefabs	
+[00:54:19]: Mod: workshop-1185229307 (史诗血量条)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:54:19]: Mod: workshop-1185229307 (史诗血量条)	    epichealth_proxy	
+[00:54:19]: Mod: workshop-1185229307 (史诗血量条)	  Registering default mod prefab	
+[00:54:19]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:54:19]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:54:19]: Mod: workshop-666155465 (Show Me (Origin))	Registering prefabs	
+[00:54:19]: Mod: workshop-666155465 (Show Me (Origin))	  Registering default mod prefab	
+[00:54:19]: Mod: workshop-661253977 ( Don't Drop Everything)	Registering prefabs	
+[00:54:19]: Mod: workshop-661253977 ( Don't Drop Everything)	  Registering default mod prefab	
+[00:54:19]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	Registering prefabs	
+[00:54:19]: Mod: workshop-2795130977 (Abigail Pro Max T PlusCup)	  Registering default mod prefab	
+[00:54:19]: Mod: workshop-3092317730 (Combined Status)	Registering prefabs	
+[00:54:19]: Mod: workshop-3092317730 (Combined Status)	  Registering default mod prefab	
+[00:54:19]: Mod: workshop-363112314 (Map Revealer for DST)	Registering prefabs	
+[00:54:19]: Mod: workshop-363112314 (Map Revealer for DST)	  Registering default mod prefab	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	Registering prefabs	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_surroundmask	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_surroundmask_leader	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_surroundmask_mask0	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_surroundmask_mask1	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_surroundmask_mask2	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_debuff	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    debuff_sparkle_xsxgj	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    debuff_sparkle_ymy	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    debuff_sparkle_hide	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_mask	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_mask	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_magicweapon_kendama	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_magicweapon_kendama	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_fumo	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_fumo	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_colorgun	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_colorgun	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_projectile	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_projectile_gun	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_gunhit	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_foods	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang_spice_salt	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi_spice_chili	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang_spice_chili	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang_spice_sugar	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_tangjiang_spice_garlic	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi_spice_garlic	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi_spice_salt	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_lingshi_spice_sugar	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering prefab file: prefabs/sparkle_fx	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_zhanjifx	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_fuxuanknowledge	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_a_nb_attackfx	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	    sparkle_rushfx	
+[00:54:19]: Mod: workshop-3473318774 (Sparkle)	  Registering default mod prefab	
+[00:54:20]: Mod: workshop-3448135812 (不文明的猪人台词)	Registering prefabs	
+[00:54:20]: Mod: workshop-3448135812 (不文明的猪人台词)	  Registering default mod prefab	
+[00:54:20]: Mod: workshop-2964299587 (伤害显示)	Registering prefabs	
+[00:54:20]: Mod: workshop-2964299587 (伤害显示)	  Registering default mod prefab	
+[00:54:20]: Mod: workshop-3044756151 (防卡两招_新)	Registering prefabs	
+[00:54:20]: Mod: workshop-3044756151 (防卡两招_新)	  Registering default mod prefab	
+[00:54:20]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	Registering prefabs	
+[00:54:20]: Mod: workshop-2986805687 (黑化队列行为学（服务器版本）)	  Registering default mod prefab	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	Registering prefabs	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_bow	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_projectile	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_realme_key	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_realme_realm	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_bow_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_hit_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_launch_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_explode_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_unfold_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_bow_unfold_back_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_heavybow_follow	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_heavybow_follow	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_headring	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_headring	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_headring_follow	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_realme_armor	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_realme_armor	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_cube	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_cube	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_cube_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_tool_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_buffs	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_spacetime_bow_debuff	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_cake_buff	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_storybook_buff	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_weak_buff	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_spacetime_debuff	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_yesterday	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_yesterday	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_rose	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_rose	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_foods	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_cake	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_wreath	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_wreath	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_storybook	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_storybook	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_amulet	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_amulet	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering prefab file: prefabs/aili_fxs	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_ring_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_icefx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	    aili_shadow_fx	
+[00:54:20]: Mod: workshop-3491443180 (爱莉希雅)	  Registering default mod prefab	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	Registering prefabs	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/globalposition_classified	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    globalposition_classified	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/smoketrail	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    smoketrail	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    globalmapicon_noproxy	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    worldmapexplorer	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	  Registering prefab file: prefabs/pings	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    ping_generic	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    ping_omw	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    ping_danger	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    ping_explore	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	    ping_gohere	
+[00:54:20]: Mod: workshop-2373375099 (B-01 小地图)	  Registering default mod prefab	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	Registering prefabs	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_light	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_shadowfirefly	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_shadowfirefly_mask	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_bag	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_bag	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_armor_firefly	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_armor_firefly_item	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_armor_firefly_item2	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_sword_firefly_item	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_sword_firefly_item_fx	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_preparedfoods_firefly	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_hamburger	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_hamburger_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_popcorn	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_popcorn_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_chipswithsundae	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_wholepizza_part	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_wholepizza_part_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_wholepizza	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_wholepizza_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_tea	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_tea_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_sundae	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_icecream	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_icecream_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_cakeroll	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_pie	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_preparedfood_pie_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_buffitems	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_foot	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_rope	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_ball	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_head	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_body	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_hand	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_optical_cone1	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_optical_cone2	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_buffitem_firefly_part	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_hat	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_hat	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_curios	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_book	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_tape	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_cheese	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_pocket	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_ticket	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_curio_pistol	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_sunderarmordebuff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_sunderarmordebuff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_hat_cny	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_hat_cny	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_hat_cny_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_card	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_card	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_knife	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_knife	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_dress	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_dress	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_soulsteel	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_rock	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_raw	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_raw_part	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_forge	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_anvil	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_forge_placer	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_anvil_placer	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_armor	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_hat	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_knife	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_tool	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_soulsteel_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_craftingmachine	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_placer	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_stuff_health	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_stuff_sanity	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_stuff_warm	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_craftingmachine_stuff_warm_buff	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_chest_firefly	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_med	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_med_blueprint	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_med_placer	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    collapsed_honkai_chest_firefly_med	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_high	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_high_blueprint	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_high_placer	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_low	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_low_blueprint	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_low_placer	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    collapsed_honkai_chest_firefly_low	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_chest_firefly_unbuildable	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_destiny_blueprints	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_remembrance	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_harmony	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_preservation	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_abundance	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_nihility	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_voracity	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_trailblaze	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_finality	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_erudition	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_equilibrium	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_order	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_propagation	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_the_hunt	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_destruction	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_enigmata	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_blueprint_elation	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_bone_meal	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_bone_meal	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_golden_sword	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_golden_sword	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_firefly_shield	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_firefly_shield	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_firefly_shield_fx	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_teleporter_anchor_point	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_teleporter_anchor_point	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_teleporter_anchor_point_placer	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/honkai_destiny_tips	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    honkai_destiny_tips	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bh_firefly_mask	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bh_firefly_mask	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/rifle	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    sushenu	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering prefab file: prefabs/bullet	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    bullet	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	    artillery	
+[00:54:20]: Mod: workshop-3320235585 ([星穹铁道] 流萤)	  Registering default mod prefab	
+[00:54:21]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:54:21]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:54:21]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:54:21]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:54:21]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:54:21]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:54:21]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:54:21]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:54:21]: Mod: workshop-2951068194 (复活按钮和传送按钮)	Registering prefabs	
+[00:54:21]: Mod: workshop-2951068194 (复活按钮和传送按钮)	  Registering default mod prefab	
+[00:54:21]: 	LOAD BE	
+[00:54:31]: 	LOAD BE: done	
+[00:54:31]: Adding extra World Event: year_of_the_snake	
+[00:54:31]: Adding extra World Event: year_of_the_carrat	
+[00:54:31]: Adding extra World Event: year_of_the_pig	
+[00:54:31]: Adding extra World Event: year_of_the_gobbler	
+[00:54:31]: Adding extra World Event: year_of_the_dragonfly	
+[00:54:31]: Adding extra World Event: year_of_the_beefalo	
+[00:54:31]: Adding extra World Event: year_of_the_varg	
+[00:54:31]: Adding extra World Event: winters_feast	
+[00:54:31]: Adding extra World Event: year_of_the_bunnyman	
+[00:54:31]: Adding extra World Event: year_of_the_catcoon	
+[00:54:31]: OVERRIDE: setting	regrowth	to	fast	
+[00:54:31]: OVERRIDE: setting	bearger	to	often	
+[00:54:31]: OVERRIDE: setting	healthpenalty	to	none	
+[00:54:31]: OVERRIDE: setting	deerclops	to	often	
+[00:54:31]: OVERRIDE: setting	pirateraids	to	rare	
+[00:54:31]: OVERRIDE: setting	extrastartingitems	to	5	
+[00:54:31]: OVERRIDE: setting	wildfires	to	rare	
+[00:54:31]: OVERRIDE: setting	eyeofterror	to	often	
+[00:54:31]: OVERRIDE: setting	shadowcreatures	to	rare	
+[00:54:31]: OVERRIDE: setting	darkness	to	nonlethal	
+[00:54:31]: OVERRIDE: setting	hunger	to	nonlethal	
+[00:54:31]: OVERRIDE: setting	temperaturedamage	to	nonlethal	
+[00:54:31]: OVERRIDE: setting	beequeen	to	often	
+[00:54:31]: OVERRIDE: setting	spiderqueen	to	often	
+[00:54:31]: OVERRIDE: setting	wanderingtrader_enabled	to	always	
+[00:54:31]: OVERRIDE: setting	goosemoose	to	often	
+[00:54:31]: OVERRIDE: setting	carrots_regrowth	to	fast	
+[00:54:31]: OVERRIDE: setting	lessdamagetaken	to	always	
+[00:54:31]: OVERRIDE: setting	cactus_regrowth	to	fast	
+[00:54:31]: OVERRIDE: setting	crabking	to	often	
+[00:54:31]: OVERRIDE: setting	dragonfly	to	often	
+[00:54:31]: OVERRIDE: setting	antliontribute	to	rare	
+[00:54:31]: OVERRIDE: setting	deciduousmonster	to	often	
+[00:54:31]: OVERRIDE: setting	malbatross	to	often	
+[00:54:31]: OVERRIDE: setting	liefs	to	often	
+[00:54:31]: OVERRIDE: setting	sharkboi	to	often	
+[00:54:31]: OVERRIDE: setting	daywalker2	to	often	
+[00:54:31]: OVERRIDE: setting	klaus	to	often	
+[00:54:31]: OVERRIDE: setting	fruitfly	to	often	
+[00:54:31]: OVERRIDE: setting	twiggytrees_regrowth	to	fast	
+[00:54:31]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3473318774/images/map_icons/sparkle.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3491443180/images/map_icons/aili.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/campfire.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_generic.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_gohere.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_explore.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_danger.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-2373375099/minimap/ping_omw.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/bh_firefly.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_soulsteel_rock.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_soulsteel_forge.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_soulsteel_anvil.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_craftingmachine.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_chest_firefly_low.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_chest_firefly_med.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/honkai_chest_firefly_high.xml )
+[00:54:31]: MiniMapComponent::AddAtlas( ../mods/workshop-3320235585/images/map_icons/bh_firefly_mask.xml )
+[00:54:31]: Loading 22 new character(s)	
+[00:54:32]: Total 22 character(s) loaded	
+[00:54:32]: World generated on build 674842 with save version: 5.156, using seed: 	
+[00:54:32]: OVERRIDE: setting	hounds	to	rare	
+[00:54:32]: OVERRIDE: setting	ghostenabled	to	always	
+[00:54:32]: OVERRIDE: setting	resettime	to	none	
+[00:54:32]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:54:32]: OVERRIDE: setting	portalresurection	to	always	
+[00:54:32]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:54:32]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:54:32]: Reconstructing topology	
+[00:54:32]: 	...Sorting points	
+[00:54:32]: 	...Sorting edges	
+[00:54:32]: 	...Connecting nodes	
+[00:54:32]: 	...Validating connections	
+[00:54:32]: 	...Housekeeping	
+[00:54:32]: 	...Done!	
+[00:54:32]: Check for write access: TRUE
+[00:54:32]: Check for read access: TRUE
+[00:54:32]: Available disk space for save files: 171755 MB
+[00:54:32]: ModIndex: Load sequence finished successfully.	
+[00:54:32]: Reset() returning
+[00:54:50]: Attempting to send resume request
+[00:54:50]: ReceiveResumeNotification
+[00:54:50]: Movement prediction enabled	
+[00:54:50]: [ActionQueue] Adding ActionQueuer component	
+[00:54:50]: Deserializing tile data (425 x 425)
+[00:54:50]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[00:59:31]: Server Autopaused	
+[00:59:33]: Server Unpaused	
+[01:00:25]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[01:08:26]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[01:09:29]: WARNING! Could not find region 'avatar_balatro_machine.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:09:29]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:10:15]: WARNING! Could not find region 'avatar_balatro_machine.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:10:15]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:12:02]: WARNING! Could not find region 'avatar_balatro_machine.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:12:02]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:12:27]: WARNING! Could not find region 'avatar_balatro_machine.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:12:27]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:13:24]: WARNING! Could not find region 'avatar_junk_pile_big.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:13:24]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:14:21]: WARNING! Could not find region 'avatar_junk_pile_big.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:14:21]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:14:22]: WARNING! Could not find region 'avatar_junk_pile_big.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:14:22]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:16:21]: WARNING! Could not find region 'avatar_junk_pile_big.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:16:21]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:16:26]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[01:16:58]: WARNING! Could not find region 'avatar_junk_pile_big.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:16:58]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:17:07]: WARNING! Could not find region 'avatar_junk_pile_big.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:17:07]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:19:23]: Server Autopaused	
+[01:19:23]: Server Unpaused	
+[01:20:15]: WARNING! Could not find region 'avatar_junk_pile_big.tex' from atlas 'images/avatars.xml'. Is the region specified in the atlas?
+[01:20:15]: Looking for default texture 'avatar_unknown.tex' from atlas 'images/avatars.xml'.
+[01:22:08]: Server Autopaused	
+[01:22:10]: DoRestart:	true	
+[01:22:10]: Server Unpaused	
+[01:22:11]: Serializing user: session/004518B9C3B89113/A7N5AUBT7EGJ/0000000001
+[01:22:11]: [Steam] Game Connection terminated (2130706433|10999)
+[01:22:11]: [Shard] Stopping shard mode
+[01:22:11]: [Workshop] CancelDownloads for all pending downloads
+[01:22:11]: [IPC] Sending signal... #000000000000131C
+[01:22:14]: [IPC] Unregistering handler for signal #00000000000013A4
+[01:22:14]: [IPC] Unregistering handler for signal #000000000000123C
+[01:22:14]: [IPC] Unregistering handler for signal #00000000000012F0
+[01:22:14]: [IPC] Unregistering handler for signal #0000000000000F7C
+[01:22:14]: [IPC] Unregistering handler for signal #00000000000011E0
+[01:22:14]: [IPC] Sending signal... #0000000000001374
+[01:22:15]: [IPC] Unregistering handler for signal #000000000000137C
+[01:22:15]: [IPC] Unregistering handler for signal #0000000000000FD4
+[01:22:15]: [IPC] Unregistering handler for signal #00000000000012C0
+[01:22:15]: [IPC] Unregistering handler for signal #00000000000011F8
+[01:22:15]: [IPC] Unregistering handler for signal #000000000000138C
+[01:22:15]: Collecting garbage...
+[01:22:16]: lua_gc took 0.12 seconds
+[01:22:16]: ~ShardLuaProxy()
+[01:22:16]: ~cEventLeaderboardProxy()
+[01:22:16]: ~ItemServerLuaProxy()
+[01:22:16]: ~InventoryLuaProxy()
+[01:22:16]: ~NetworkLuaProxy()
+[01:22:16]: ~SimLuaProxy()
+[01:22:16]: [Workshop] CancelDownloads for all pending downloads
+[01:22:16]: lua_close took 0.14 seconds
+[01:22:16]: ReleaseAll
+[01:22:16]: ReleaseAll Finished
+[01:22:16]: cGame::StartPlaying
+[01:22:16]: AppVersion::GetArchitecture() x64
+[01:22:16]: LOADING LUA
+[01:22:16]: DoLuaFile scripts/main.lua
+[01:22:16]: DoLuaFile loading buffer scripts/main.lua
+[01:22:16]: Translator:LoadPOFile - loading file: scripts/languages/chinese_t.po	
+[01:22:17]:   taskgrouplist:	default	連線版	
+[01:22:17]:   taskgrouplist:	classic	經典	
+[01:22:17]:   taskgrouplist:	cave_default	地下	
+[01:22:17]:   taskgrouplist:	lavaarena_taskset	熔爐	
+[01:22:17]:   taskgrouplist:	quagmire_taskset	暴食	
+[01:22:17]: Running main.lua
+	
+[01:22:18]: unloading prefabs for mod workshop-1185229307 (史诗血量条)	
+[01:22:18]: unloading prefabs for mod workshop-375850593 (Extra Equip Slots)	
+[01:22:18]: unloading prefabs for mod workshop-666155465 (Show Me (Origin))	
+[01:22:18]: unloading prefabs for mod workshop-661253977 ( Don't Drop Everything)	
+[01:22:18]: unloading prefabs for mod workshop-2795130977 (Abigail Pro Max T PlusCup)	
+[01:22:18]: unloading prefabs for mod workshop-3092317730 (Combined Status)	
+[01:22:18]: unloading prefabs for mod workshop-363112314 (Map Revealer for DST)	
+[01:22:18]: unloading prefabs for mod workshop-3473318774 (Sparkle)	
+[01:22:18]: unloading prefabs for mod workshop-3448135812 (不文明的猪人台词)	
+[01:22:18]: unloading prefabs for mod workshop-2964299587 (伤害显示)	
+[01:22:18]: unloading prefabs for mod workshop-3044756151 (防卡两招_新)	
+[01:22:18]: unloading prefabs for mod workshop-2986805687 (黑化队列行为学（服务器版本）)	
+[01:22:18]: unloading prefabs for mod workshop-3491443180 (爱莉希雅)	
+[01:22:18]: unloading prefabs for mod workshop-2373375099 (B-01 小地图)	
+[01:22:18]: unloading prefabs for mod workshop-3320235585 ([星穹铁道] 流萤)	
+[01:22:18]: unloading prefabs for mod workshop-1595631294 (Smart Minisign)	
+[01:22:18]: unloading prefabs for mod workshop-1207269058 ( Simple Health Bar DST)	
+[01:22:18]: unloading prefabs for mod workshop-2951068194 (复活按钮和传送按钮)	
+[01:22:18]: unloading prefabs for mod SMARTSIGNOTHER	
+[01:22:18]: loaded modindex	
+[01:22:18]: ModIndex: Beginning normal load sequence.
+	
+[01:22:18]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[01:22:18]: LOADING LUA SUCCESS
+[01:22:18]: PlayerDeaths loaded morgue	6053	
+[01:22:18]: PlayerHistory loaded player_history (v2) len:402	
+[01:22:18]: ServerPreferences loaded server_preferences	2	
+[01:22:18]: ConsoleScreenSettings loaded consolescreen	1008	
+[01:22:18]: bloom_enabled	false	
+[01:22:18]: EnableShadeRenderer: 	true	
+[01:22:18]: loaded shardsaveindex	
+[01:22:18]: OnFilesLoaded()	
+[01:22:18]: OnUpdatePurchaseStateComplete	
+[01:22:18]: Klump load on boot started.	
+[01:22:18]: Klump files loaded: 	0	
+[01:22:18]: 	Unload characters	
+[01:22:18]: 	Unload BE	
+[01:22:18]: 	Unload BE done	
+[01:22:18]: Could not unload undefined prefab (wurt_merm_planar)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med1)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med2)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med1)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med2)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med1)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med2)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med1)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med2)
+[01:22:18]: Could not unload undefined prefab (wurt_merm_planar)
+[01:22:18]: Could not unload undefined prefab (horrorfuel_castfx)
+[01:22:18]: Could not unload undefined prefab (cookedsmallmeat)
+[01:22:18]: Could not unload undefined prefab (spoiled_food)
+[01:22:18]: Could not unload undefined prefab (shadowmeteor)
+[01:22:18]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:22:18]: Could not unload undefined prefab (gestalt_alterguardian_projectile)
+[01:22:18]: Could not unload undefined prefab (mining_moonglass_fx)
+[01:22:18]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:22:18]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:22:18]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:22:18]: Could not unload undefined prefab (moon_altar_break)
+[01:22:18]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:22:18]: Could not unload undefined prefab (burntground)
+[01:22:18]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:22:18]: Could not unload undefined prefab (construction_container)
+[01:22:18]: Could not unload undefined prefab (moon_altar_link_contained)
+[01:22:18]: Could not unload undefined prefab (moon_device_break_stage1)
+[01:22:18]: Could not unload undefined prefab (moon_device_break_stage2)
+[01:22:18]: Could not unload undefined prefab (moon_device_break_stage3)
+[01:22:18]: Could not unload undefined prefab (moon_altar_break)
+[01:22:18]: Could not unload undefined prefab (moon_altar_crown_break)
+[01:22:18]: Could not unload undefined prefab (burntground)
+[01:22:18]: Could not unload undefined prefab (moon_device_meteor_spawner)
+[01:22:18]: Could not unload undefined prefab (construction_container)
+[01:22:18]: Could not unload undefined prefab (ash)
+[01:22:18]: Could not unload undefined prefab (campfirefire)
+[01:22:18]: Could not unload undefined prefab (ash)
+[01:22:18]: Could not unload undefined prefab (campfirefire)
+[01:22:18]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med1)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med2)
+[01:22:18]: Could not unload undefined prefab (splash_ocean)
+[01:22:18]: Could not unload undefined prefab (oceanfishinghook_ripple)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med1)
+[01:22:18]: Could not unload undefined prefab (ocean_splash_med2)
+[01:22:18]: Could not unload undefined prefab (splash_ocean)
+[01:22:20]: 	Load FE	
+[01:22:20]: 	Load FE: done	
+[01:22:20]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1616108184/client_save/blocklist.txt (Failure)
+[01:22:20]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1616108184/client_save/adminlist.txt (Failure)
+[01:22:20]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1616108184/client_save/whitelist.txt (Failure)
+[01:22:20]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=TW&lang=tchinese&version=677072	
+[01:22:20]: Check for write access: TRUE
+[01:22:20]: Check for read access: TRUE
+[01:22:20]: Available disk space for save files: 171741 MB
+[01:22:20]: ModIndex: Load sequence finished successfully.	
+[01:22:20]: Reset() returning
+[01:22:20]: Do AutoLogin	
+[01:22:21]: [200] Account Communication Success (6)
+[01:22:21]: Received (KU_vLUNqxeJ) from TokenPurpose
+[01:22:21]: [Steam] Auth Session Ticket requested...
+[01:22:21]: [Steam] Got Auth Session Ticket
+[01:22:22]: There is no active event to get the status of.
+[01:22:22]: [DLCS] 0, 2132800:0, 1338540:0, 1485060:0, 2236180:0, 282470:0, 840750:0, 1558300:0, 1205500:0, 1084430:0, 1289760:0, 1899050:0, 1051700:0, 3155070:0, 1205501:0, 981701:0, 840770:0, 1167510:0, 1447360:0, 981700:0, 840760:0, 382560:0, 1694780:0, 1874370:0, 798750:0, 1522880:0, 1230830:0, 1710241:0, 457140:0, 1172860:0, 1272440:0, 1710240:0, 2241030:0, 2711510:0, 3373370:0, 393010:0, 987340:0, 2058281:0, 962960:0, 1167330:0, 2170670:0, 2058280:0, 798740:0, 2170671:0, 1612410:0, 1836630:0, 2769680:0, 3373360:0, 974740:0, 1698560:0, 2377640:0, 2007370:0, 712640:0, 981702:0
+[01:22:22]: [MOTD] Done Loading.	
+[01:22:22]: could not load pending_keyvalues_prod
+[01:22:23]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_cookbook_prod
+[01:22:23]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_scrapbook0_prod
+[01:22:23]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_scrapbook1_prod
+[01:22:23]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_scrapbook8_prod
+[01:22:23]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_scrapbook10_prod
+[01:22:23]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_scrapbook11_prod
+[01:22:23]: saved APP:Klei//DoNotStarveTogether/1616108184/client_save/keyvalue_scrapbook12_prod
+[01:22:23]: loaded inventory_cache_prod
+[01:22:23]: using inventory state token from cached file
+[01:22:23]: Cancelling Get All Items flow. Current progress at 7
+[01:22:24]: [Workshop] CancelDownloads for all pending downloads
+[01:22:24]: Collecting garbage...
+[01:22:24]: lua_gc took 0.10 seconds
+[01:22:24]: ~ShardLuaProxy()
+[01:22:24]: ~cEventLeaderboardProxy()
+[01:22:24]: ~ItemServerLuaProxy()
+[01:22:24]: ~InventoryLuaProxy()
+[01:22:24]: ~NetworkLuaProxy()
+[01:22:24]: ~SimLuaProxy()
+[01:22:24]: [Workshop] CancelDownloads for all pending downloads
+[01:22:24]: lua_close took 0.10 seconds
+[01:22:25]: [Workshop] CancelDownloads for all pending downloads
+[01:22:25]: [Steam] Auth ticket cancelled
+[01:22:25]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:22:25]: anim/hound_ice_ocean.zip - 3
+[01:22:25]: anim/worm_boss_segment.zip - 9
+[01:22:25]: anim/structure_collapse_fx.zip - 5
+[01:22:25]: anim/hound_hedge_ocean.zip - 3
+[01:22:25]: anim/oceanfishing_bobber_sporty_build.zip - 7
+[01:22:25]: anim/costume_king_body.zip - 3
+[01:22:25]: anim/splash_ocean.zip - 3
+[01:22:25]: anim/gems.zip - 15
+[01:22:25]: anim/charlie_lectern.zip - 3
+[01:22:25]: anim/worm_boss.zip - 9
+[01:22:25]: anim/playbill.zip - 3
+[01:22:25]: anim/blueprint_sketch.zip - 3
+[01:22:25]: anim/oceanfishingbobber_goose_build.zip - 7
+[01:22:25]: anim/charlie_seat.zip - 3
+[01:22:25]: anim/costume_mirror_body.zip - 3
+[01:22:25]: anim/statue_ruins_small.zip - 9
+[01:22:25]: anim/oceanfishing_bobber_ball_build.zip - 7
+[01:22:25]: anim/costume_fool_body.zip - 3
+[01:22:25]: anim/statue_ruins.zip - 9
+[01:22:25]: anim/statue_ruins_small_gem.zip - 9
+[01:22:25]: anim/oceanfishingbobber_robin_build.zip - 7
+[01:22:25]: anim/splash_water_drop.zip - 13
+[01:22:25]: anim/oceanfishingbobber_robin_winter_build.zip - 7
+[01:22:25]: anim/hound_basic.zip - 3
+[01:22:25]: anim/bananabush.zip - 3
+[01:22:25]: anim/costume_doll_body.zip - 3
+[01:22:25]: anim/nightmarefuel.zip - 3
+[01:22:25]: anim/yotb_post_ribbons.zip - 3
+[01:22:25]: anim/hound_hedge_action_water.zip - 3
+[01:22:25]: anim/oceanfishing_bobber_ball.zip - 49
+[01:22:25]: anim/oceanfishingbobber_crow_build.zip - 7
+[01:22:25]: anim/yotb_spotlight.zip - 3
+[01:22:25]: anim/hound_mutated.zip - 3
+[01:22:25]: anim/oceanfishingbobber_canary_build.zip - 7
+[01:22:25]: anim/costume_tree_body.zip - 3
+[01:22:25]: anim/yotb_post_rug.zip - 3
+[01:22:25]: anim/die.zip - 3
+[01:22:25]: anim/hedgehound_bush.zip - 3
+[01:22:25]: anim/hat_mask_doll.zip - 3
+[01:22:25]: anim/worm_boss_segment_2_build.zip - 9
+[01:22:25]: anim/hound_hedge_action.zip - 3
+[01:22:25]: anim/hounds_tooth_water.zip - 3
+[01:22:25]: anim/charlie_heckler2.zip - 3
+[01:22:25]: anim/winter_ornaments2024.zip - 3
+[01:22:25]: anim/costume_blacksmith_body.zip - 3
+[01:22:25]: anim/statue_ruins_gem.zip - 9
+[01:22:25]: anim/thulecite.zip - 3
+[01:22:25]: anim/statue_ruins_fx.zip - 3
+[01:22:25]: anim/hound_ocean.zip - 3
+[01:22:25]: anim/oceanfishingbobber_malbatross_build.zip - 7
+[01:22:25]: anim/hound_red_ocean.zip - 3
+[01:22:25]: anim/oceanfishing_hook.zip - 3
+[01:22:25]: anim/costume_queen_body.zip - 3
+[01:22:25]: anim/hound_basic_water.zip - 3
+[01:22:25]: anim/sewing_mannequin.zip - 3
+[01:22:25]: anim/marble.zip - 3
+[01:22:25]: anim/hounds_tooth.zip - 3
+[01:22:25]: anim/charlie_stage.zip - 5
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager.
+[01:22:25]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:22:25]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 2
+[01:22:25]: anim/worm_boss_segment_2_build.zip:worm_boss_segment_2_build--atlas-0.tex - 2
+[01:22:25]: anim/thulecite.zip:thulecite--atlas-0.tex - 2
+[01:22:25]: anim/winter_ornaments2024.zip:winter_ornaments2024--atlas-0.tex - 2
+[01:22:25]: anim/hedgehound_bush.zip:hedgehound_bush--atlas-0.tex - 2
+[01:22:25]: anim/charlie_lectern.zip:charlie_lectern--atlas-0.tex - 2
+[01:22:25]: anim/gems.zip:gems--atlas-0.tex - 2
+[01:22:25]: anim/yotb_post_rug.zip:yotb_post_rug--atlas-1.tex - 2
+[01:22:25]: anim/charlie_heckler2.zip:charlie_heckler2--atlas-0.tex - 2
+[01:22:25]: anim/worm_boss_segment.zip:worm_boss_segment--atlas-0.tex - 2
+[01:22:25]: anim/hound_ice_ocean.zip:hound_ice_ocean--atlas-0.tex - 2
+[01:22:25]: anim/costume_queen_body.zip:costume_queen_body--atlas-1.tex - 2
+[01:22:25]: anim/hound_hedge_ocean.zip:hound_hedge_ocean--atlas-0.tex - 2
+[01:22:25]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 2
+[01:22:25]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 2
+[01:22:25]: anim/hat_mask_doll.zip:hat_mask_doll--atlas-0.tex - 2
+[01:22:25]: anim/costume_fool_body.zip:costume_fool_body--atlas-0.tex - 2
+[01:22:25]: anim/charlie_stage.zip:charlie_stage--atlas-0.tex - 2
+[01:22:25]: anim/worm_boss.zip:worm_boss--atlas-0.tex - 2
+[01:22:25]: anim/costume_mirror_body.zip:costume_mirror_body--atlas-0.tex - 2
+[01:22:25]: anim/yotb_post_ribbons.zip:yotb_post_ribbons--atlas-0.tex - 2
+[01:22:25]: anim/hound_basic_water.zip:hound_basic_water--atlas-0.tex - 2
+[01:22:25]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 2
+[01:22:25]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 2
+[01:22:25]: anim/bananabush.zip:bananabush--atlas-0.tex - 2
+[01:22:25]: anim/oceanfishingbobber_robin_winter_build.zip:oceanfishingbobber_robin_winter_build--atlas-0.tex - 2
+[01:22:25]: anim/hound_ocean.zip:hound_ocean--atlas-0.tex - 2
+[01:22:25]: anim/oceanfishingbobber_malbatross_build.zip:oceanfishingbobber_malbatross_build--atlas-0.tex - 2
+[01:22:25]: anim/costume_king_body.zip:costume_king_body--atlas-0.tex - 2
+[01:22:25]: anim/costume_tree_body.zip:costume_tree_body--atlas-0.tex - 2
+[01:22:25]: anim/charlie_stage.zip:charlie_stage--atlas-1.tex - 2
+[01:22:25]: anim/oceanfishingbobber_robin_build.zip:oceanfishingbobber_robin_build--atlas-0.tex - 2
+[01:22:25]: anim/oceanfishing_hook.zip:oceanfishing_hook--atlas-0.tex - 2
+[01:22:25]: anim/yotb_spotlight.zip:yotb_spotlight--atlas-0.tex - 2
+[01:22:25]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 2
+[01:22:25]: anim/splash_water_drop.zip:splash_water_drop--atlas-0.tex - 2
+[01:22:25]: anim/splash_ocean.zip:splash_ocean--atlas-0.tex - 2
+[01:22:25]: anim/marble.zip:marble--atlas-0.tex - 2
+[01:22:25]: anim/sewing_mannequin.zip:sewing_mannequin--atlas-0.tex - 2
+[01:22:25]: anim/hound_mutated.zip:hound_mutated--atlas-0.tex - 2
+[01:22:25]: anim/hound_red_ocean.zip:hound_red_ocean--atlas-0.tex - 2
+[01:22:25]: anim/oceanfishingbobber_goose_build.zip:oceanfishingbobber_goose_build--atlas-0.tex - 2
+[01:22:25]: anim/oceanfishing_bobber_sporty_build.zip:oceanfishing_bobber_sporty_build--atlas-0.tex - 2
+[01:22:25]: anim/oceanfishing_bobber_ball_build.zip:oceanfishing_bobber_ball_build--atlas-0.tex - 2
+[01:22:25]: anim/charlie_seat.zip:charlie_seat--atlas-0.tex - 2
+[01:22:25]: anim/oceanfishingbobber_crow_build.zip:oceanfishingbobber_crow_build--atlas-0.tex - 2
+[01:22:25]: anim/costume_doll_body.zip:costume_doll_body--atlas-0.tex - 2
+[01:22:25]: anim/costume_tree_body.zip:costume_tree_body--atlas-1.tex - 2
+[01:22:25]: anim/costume_blacksmith_body.zip:costume_blacksmith_body--atlas-0.tex - 2
+[01:22:25]: anim/playbill.zip:playbill--atlas-0.tex - 2
+[01:22:25]: anim/blueprint_sketch.zip:blueprint_sketch--atlas-0.tex - 2
+[01:22:25]: anim/oceanfishingbobber_canary_build.zip:oceanfishingbobber_canary_build--atlas-0.tex - 2
+[01:22:25]: anim/yotb_post_rug.zip:yotb_post_rug--atlas-0.tex - 2
+[01:22:25]: anim/die.zip:die--atlas-0.tex - 2
+[01:22:25]: anim/hounds_tooth.zip:hounds_tooth--atlas-0.tex - 2
+[01:22:25]: anim/hounds_tooth_water.zip:hounds_tooth_water--atlas-0.tex - 2
+[01:22:25]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 2
+[01:22:25]: anim/costume_queen_body.zip:costume_queen_body--atlas-0.tex - 2
+[01:22:26]: CurlRequestManager::ClientThread::Main() complete
+[01:22:26]: HttpClient2 discarded 0 callbacks.
+[01:22:26]: Shutting down

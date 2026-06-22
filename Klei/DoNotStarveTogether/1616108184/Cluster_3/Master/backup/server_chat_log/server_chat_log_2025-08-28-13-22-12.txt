@@ -1,0 +1,13 @@
+[00:01:19]: [Join Announcement] g04575571
+[00:01:36]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[00:01:45]: [Death Announcement] g04575571 死於： 克勞斯。她變成了可怕的鬼魂！
+[00:01:46]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[00:01:56]: [Death Announcement] g04575571 死於： 克勞斯。她變成了可怕的鬼魂！
+[00:02:01]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[00:02:07]: [Death Announcement] g04575571 死於： 克勞斯。她變成了可怕的鬼魂！
+[00:02:15]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[00:03:35]: [Death Announcement] g04575571 死於： 克勞斯。她變成了可怕的鬼魂！
+[00:03:39]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[00:03:45]: [Death Announcement] g04575571 死於： 克勞斯。她變成了可怕的鬼魂！
+[00:03:51]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[00:03:59]: [Leave Announcement] g04575571

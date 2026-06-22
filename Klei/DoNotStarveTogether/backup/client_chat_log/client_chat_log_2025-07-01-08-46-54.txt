@@ -1,0 +1,6 @@
+[00:36:15]: [Death Announcement] g04575571 死於： 熊獾。她變成了可怕的鬼魂！
+[00:36:33]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:54:11]: [Announcement] g04575571生成了一项记录！
+[02:30:18]: [Announcement] g04575571生成了一项记录！
+[02:59:59]: [Death Announcement] g04575571 死於： 恐怖尖喙。她變成了可怕的鬼魂！
+[03:00:15]: [Resurrect Announcement] g04575571 復活自： g04575571.

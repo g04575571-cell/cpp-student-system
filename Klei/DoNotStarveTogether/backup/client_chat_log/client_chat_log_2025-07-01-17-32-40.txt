@@ -1,0 +1,61 @@
+[00:17:46]: [Death Announcement] g04575571 死於： 恐怖尖喙。她變成了可怕的鬼魂！
+[00:17:49]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[00:50:55]: [Death Announcement] g04575571 死於： 豬人。他變成了可怕的鬼魂！
+[00:50:59]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[00:59:16]: [Announcement] g04575571生成了一项记录！
+[01:10:23]: [Death Announcement] g04575571 死於： 麋鹿鵝。他變成了可怕的鬼魂！
+[01:10:24]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:11:06]: [Death Announcement] g04575571 死於： 麋鹿鵝。他變成了可怕的鬼魂！
+[01:11:07]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:11:21]: [Death Announcement] g04575571 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[01:11:22]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:11:33]: [Death Announcement] g04575571 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[01:11:35]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:12:02]: [Death Announcement] g04575571 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[01:12:03]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:12:26]: [Death Announcement] g04575571 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[01:12:28]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:13:17]: [Death Announcement] g04575571 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[01:13:18]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:13:57]: [Death Announcement] g04575571 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[01:13:59]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:15:49]: [Death Announcement] g04575571 死於： 皮弗婁牛。他變成了可怕的鬼魂！
+[01:15:50]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:20:21]: [Death Announcement] g04575571 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[01:20:22]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:20:55]: [Death Announcement] g04575571 死於： 麋鹿鵝幼崽。他變成了可怕的鬼魂！
+[01:20:57]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:35:16]: [Death Announcement] g04575571 死於： 獵犬。他變成了可怕的鬼魂！
+[01:35:17]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:36:31]: [Death Announcement] g04575571 死於： 獵犬。他變成了可怕的鬼魂！
+[01:36:32]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:37:07]: [Announcement] g04575571生成了一项记录！
+[01:38:34]: [Death Announcement] g04575571 死於： 恐怖尖喙。他變成了可怕的鬼魂！
+[01:38:35]: [Resurrect Announcement] g04575571 復活自： g04575571.
+[01:52:53]: [Announcement] g04575571生成了一项记录！
+[01:56:21]: [Announcement] g04575571生成了一项记录！
+[02:12:19]: [Announcement] 本房间将于 5 秒后清理！
+[02:12:24]: [Announcement] 清理中...
+[02:12:24]: [Announcement] 清理了   石化樹(rock_petrified_tree)   231   81   150
+[02:12:24]: [Announcement] 清理了   鳥糞(guano)   2   1   1
+[02:12:24]: [Announcement] 清理了   麋鹿鵝雕塑草圖(sketch)   4   3   1
+[02:12:24]: [Announcement] 清理了   骷髏(skeleton_player)   39   19   20
+[02:12:24]: [Announcement] 清理了   小薑餅(winter_food1)   3   1   2
+[02:12:24]: [Announcement] 清理了   蜜蜂(bee)   15   5   10
+[02:12:24]: [Announcement] 清理了   永遠的水果蛋糕(winter_food4)   3   1   2
+[02:12:24]: [Announcement] 清理了   MISSING NAME(winter_ornament_plain5)   3   1   2
+[02:12:24]: [Announcement] 清理了   拐杖糖(winter_food3)   3   1   2
+[02:12:24]: [Announcement] 清理了   MISSING NAME(flies)   25   15   10
+[02:12:24]: [Announcement] 清理了   燧石(flint)   53   3   50
+[02:12:24]: [Announcement] 清理了   腐爛鳥蛋(rottenegg)   11   9   2
+[02:12:24]: [Announcement] 清理了   青蛙(frog)   47   27   20
+[02:12:24]: [Announcement] 清理了   種子(seeds)   20   17   3
+[02:12:24]: [Announcement] 清理了   多枝樹(twiggytree)   519   369   150
+[02:12:24]: [Announcement] 清理了   樹枝(twigs)   123   73   50
+[02:12:24]: [Announcement] 清理了   糖曲奇餅(winter_food2)   4   2   2
+[02:12:24]: [Announcement] 清理了   MISSING NAME(winter_ornament_boss_moose)   3   1   2
+[02:12:24]: [Announcement] 清理了   糞肥(poop)   23   18   5
+[02:12:24]: [Announcement] 清理了   MISSING NAME(burntground)   121   116   5
+[02:12:24]: [Announcement] 清理了   臃腫常青樹(evergreen_sparse)   240   90   150
+[02:15:24]: [Death Announcement] g04575571 死於： 沙刺。她變成了可怕的鬼魂！
+[02:15:40]: [Resurrect Announcement] g04575571 復活自： g04575571.

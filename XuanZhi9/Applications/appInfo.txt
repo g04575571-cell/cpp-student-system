@@ -1,0 +1,1 @@
+[{"appName":"王者荣耀","appPackage":"com.tencent.tmgp.sgame","appVersion":"11.1.1.6"},{"appName":"Netflix","appPackage":"com.netflix.mediaclient","appVersion":"9.34.0 build 6 63420"}]

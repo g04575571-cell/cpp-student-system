@@ -1,0 +1,1 @@
+KLEI     1 return {last_selected_card={carrot=1,corn=3,weed_forgetmelots=5,tomato="summary",potato="summary",durian=3},filters={},pictures={},plants={carrot={true},corn={true,[3]=true},weed_forgetmelots={[4]=true,[5]=true},tomato={true,true,true,true,true},potato={true,true,true,true,true},durian={[2]=true,[3]=true}},fertilizers={guano=true,poop=true}}
