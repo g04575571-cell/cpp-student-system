@@ -1,4 +1,0 @@
-[00:01:09]: [Join Announcement] g04575571
-[00:10:51]: [Death Announcement] g04575571 死於： Night Shambler 。她變成了可怕的鬼魂！
-[00:11:01]: [Resurrect Announcement] g04575571 復活自： g04575571.
-[00:11:28]: [Leave Announcement] g04575571
